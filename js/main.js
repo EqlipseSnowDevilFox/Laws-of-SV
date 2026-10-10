@@ -1993,7 +1993,1522 @@ const laws = [
         "text": "(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig a) ein nicht zugelassenes Fahrzeug betreibt (§ 9), b) Kennzeichen verdeckt, entfernt, verändert oder unleserlich macht (§ 12), c) ein Kennzeichen verwendet, das einem anderen Fahrzeug zugeteilt wurde (§ 12), d) unzulässige Umbauten oder Modifikationen vornimmt (§ 24), e) trotz Stilllegung ein Fahrzeug führt (§ 33), f) gegen sonstige Vorschriften dieses Gesetzes verstößt, soweit die Handlung nicht bereits als Straftat geahndet wird. (2) Straftaten nach diesem Gesetz sowie nach dem Strafgesetzbuch des Staates San Andreas bleiben unberührt. (3) Zuwiderhandlungen gegen die Vorschriften dieses Gesetzes können nach Maßgabe der StKatV mit Verwarnungen, Bußgeldern, Fahrverboten oder sonstigen Maßnahmen geahndet werden. (4) Soweit einzelne Handlungen sowohl einen Verstoß gegen dieses Gesetz als auch gegen das Strafgesetzbuch darstellen, geht die strafrechtliche Ahndung vor."
       }
     ]
-  }
+  },
+{
+  "id": "enforcement",
+  "title": "ENFORCEMENT CODE (EC)",
+  "category": "Gesetzbuch",
+  "sourceFile": "S.A. STATE GOVERNMENT - Enforcement Code.html",
+  "sections": [
+    {
+      "number": "§ 1",
+      "title": "Anwendungsbereich",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeines"
+      },
+      "text": "Dieses Gesetz regelt die Verfahren der Strafverfolgung und der Exekutive und sämtliche Gerichtsverfahren. Dieses Gesetz findet auf das gerichtliche Zivilverfahren analoge Anwendung."
+    },
+    {
+      "number": "§ 2",
+      "title": "Unschuldsvermutung",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeines"
+      },
+      "text": "Jede Person gilt bis zum rechtskräftigen Beweis ihrer Schuld als unschuldig. Rechtskräftig ist eine Entscheidung, die mangels einlegbarer Rechtsmittel unanfechtbar geworden ist."
+    },
+    {
+      "number": "§ 3",
+      "title": "Grundsätze der Strafverfolgung",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Ab 90 Hafteinheiten Haftandrohung ist zwingend eine Hauptverhandlung durchzuführen. Auf Antrag der Staatsanwaltschaft kann die Richterschaft davon absehen, wenn das öffentliche Interesse an einer schnellen erstinstanzlichen Entscheidung überwiegt. (2) Unter 90 Hafteinheiten kann die Exekutive über die Strafe entscheiden, insbesondere hinsichtlich der Strafzumessung und möglichen Bewährungsentscheidungen."
+    },
+    {
+      "number": "§ 4",
+      "title": "Rechtsaufsichtsfunktion des Department of Justice",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Das Department of Justice überwacht fortlaufend die Rechtmäßigkeit exekutiver Maßnahmen (Rechtsaufsicht). (2) Die Staatsanwaltschaft ist befugt, bei Vorliegen konkreter Anhaltspunkte für ein mögliches Fehlverhalten Prüfungen und Ermittlungen einzuleiten. (3) Die Exekutive ist verpflichtet, auf Anforderung der Staatsanwaltschaft alle Unterlagen und Einsatzberichte vorzulegen."
+    },
+    {
+      "number": "§ 5",
+      "title": "Aufgaben und Zuständigkeiten der Exekutive",
+      "chapter": {
+        "number": "II.",
+        "title": "Aufgaben und Pflichten der Exekutive"
+      },
+      "text": "(1) Die Exekutive hat die Aufgabe, Gefahren für die öffentliche Sicherheit und Ordnung abzuwehren, Straftaten zu verhüten, zu verfolgen sowie Hilfe in Not- und Gefahrenlagen zu leisten. (2) Sie hat dabei die verfassungsmäßige Ordnung, die Rechte des Einzelnen und das Prinzip der Verhältnismäßigkeit zu wahren. (3) Die Exekutive leistet Vollzugshilfe und Amtshilfe für andere staatliche Behörden, soweit keine anderen Regelungen entgegenstehen. (4) Maßnahmen, die in Grundrechte eingreifen, sind nur zulässig, wenn sie auf einer gesetzlichen Grundlage beruhen. (5) Als Exekutivbehörden im Sinne dieses Gesetzes gelten das LSPD, das BCSO, das FIB sowie untergeordnete Behörden des allgemeinen Polizeivollzugsdienstes. (6) Für die Staatsanwaltschaft beim DOJ finden die Vorschriften dieses Gesetzes mit der Maßgabe Anwendung, dass die Staatsanwaltschaft freiheitsentziehende Maßnahmen zum Zwecke der Sicherung des Strafverfahrens gegenüber den übrigen Exekutivbehörden anordnen darf. Das in der Constitution of San Andreas verankerte Evokationsrecht des Supreme Attorney bleibt unberührt."
+    },
+    {
+      "number": "§ 6",
+      "title": "Neutralität der Exekutive",
+      "chapter": {
+        "number": "II.",
+        "title": "Aufgaben und Pflichten der Exekutive"
+      },
+      "text": "(1) Die Exekutive handelt in allen dienstlichen Angelegenheiten unparteiisch und verpflichtet sich der Wahrung der wirtschaftlichen, politischen, weltanschaulichen und religiösen Neutralität. (2) Bei Exekutivbehörden beschäftigte Mitarbeiter sind ausschließlich Exekutivbeamte. Exekutivbeamte dürfen im Dienst ihre amtliche Stellung nicht dazu verwenden, persönliche Interessen zu verfolgen."
+    },
+    {
+      "number": "§ 7",
+      "title": "Pflicht zur Selbstlegitimation",
+      "chapter": {
+        "number": "II.",
+        "title": "Aufgaben und Pflichten der Exekutive"
+      },
+      "text": "(1) Exekutivbeamte sind verpflichtet, sich auf Verlangen persönlich gegenüber dem Supreme Attorney, der Staatsanwaltschaft, der Richterschaft sowie der Leitung anderer Exekutivbehörden unverzüglich mit ihrem Dienstausweis auszuweisen. (2) Gegenüber anderen Personen müssen sich Beamte, auf verlangen, mit ihrem Dienstausweis ausweisen, wenn Sie gegenüber diesen Personen Maßnahmen nach diesem Gesetz vollziehen wollen. Bei Gefahr im Verzug entfällt diese Pflicht, ist jedoch nach Beseitigung der Gefahr unverzüglich nachzuholen. (3) Eine Verweigerung oder unberechtigte Verzögerung stellt einen Verstoß gegen dieses Gesetz dar. Ohne Selbstlegitimation sind nach diesem Gesetz getroffene Maßnahmen rechtswidrig. Absatz 2 Satz 2 bleibt unberührt. (4) Personen, die von Maßnahmen nach diesem Gesetz betroffen sind, müssen Anordnungen von Exekutivbeamten solange nicht Folge leisten, bis diese sich gemäß Absatz 2 legitimiert haben."
+    },
+    {
+      "number": "§ 8",
+      "title": "Pflichtgemäßes Ermessen",
+      "chapter": {
+        "number": "II.",
+        "title": "Aufgaben und Pflichten der Exekutive"
+      },
+      "text": "(1) Die Exekutive handelt nach pflichtgemäßem Ermessen. Kommen mehrere Mittel in Betracht, genügt die Bestimmung eines geeigneten. Auf Antrag ist der betroffenen Person ein gleichwertiges, milderes Mittel zu gestatten, sofern der Zweck dadurch ebenso erreicht wird. (2) Eine Maßnahme muss geeignet, erforderlich und angemessen sein, um den verfolgten Zweck zu erreichen. (3) Von mehreren geeigneten Maßnahmen ist diejenige zu wählen, die den Einzelnen und die Allgemeinheit am wenigsten beeinträchtigt (mildestes Mittel). (4) Eine Maßnahme darf nur solange andauern, bis ihr Zweck erreicht oder erkennbar nicht mehr erreichbar ist."
+    },
+    {
+      "number": "§ 9",
+      "title": "Gefahr im Verzug",
+      "chapter": {
+        "number": "II.",
+        "title": "Aufgaben und Pflichten der Exekutive"
+      },
+      "text": "(1) Bei Gefahr im Verzug ist ein sofortiges Handeln auch ohne vorherige richterliche Anordnung oder Genehmigung zulässig, muss aber nachträglich dokumentiert und richterlich bestätigt werden. (2) Gefahr im Verzug liegt vor, wenn die Einholung einer richterlichen oder staatsanwaltschaftlichen Anordnung den Erfolg der Maßnahme durch Zeitverlust gefährden würde. Dies ist insbesondere bei drohender Beweismittelvernichtung, unmittelbarer Fluchtgefahr oder bei akuter Gefahr für Leib und Leben anzunehmen."
+    },
+    {
+      "number": "§ 10",
+      "title": "Strafvollzug",
+      "chapter": {
+        "number": "II.",
+        "title": "Aufgaben und Pflichten der Exekutive"
+      },
+      "text": "(1) Die Exekutivbehörden sind für die ordnungsgemäße Durchführung des Strafvollzugs zuständig. (2) Sie haben sicherzustellen, dass sich alle verurteilten Personen ab 60 Hafteinheiten zu festgelegten Terminen einfinden. Die Termine können durch das Department of Justice im Einzelfall angepasst werden. (3) Das Department of Justice erhält nach jedem Termin eine aktualisierte Liste aller erschienenen und nicht erschienenen Personen. (4) Nicht erschienene Personen sind zur Fahndung auszuschreiben und bei Auffinden festzunehmen und dem Strafvollzug zuzuführen."
+    },
+    {
+      "number": "§ 11",
+      "title": "Befugnisgeneralklausel",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Die Exekutive darf Maßnahmen treffen, um konkrete Gefahren für die öffentliche Sicherheit oder Ordnung abzuwehren. (2) Soweit besondere Gesetze oder Verordnungen Befugnisse nicht abschließend regeln, gelten ergänzend die Vorschriften dieses Gesetzes. (3) Maßnahmen sind zu dokumentieren und die Dokumentation auf Verlangen dem Dienstvorgesetzten oder dem DOJ vorzulegen."
+    },
+    {
+      "number": "§ 12",
+      "title": "Inanspruchnahme verantwortlicher Personen",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Maßnahmen sind gegen die Person zu richten, die die Gefahr verursacht, oder verursachen wird. (2) Wird die Gefahr durch eine beauftragte Person verursacht, kann auch der Auftraggeber in Anspruch genommen werden. (3) Bestehen mehrere Verantwortliche, kann die Exekutive nach Ermessen bestimmen, gegen wen die Maßnahme vorrangig zu richten ist."
+    },
+    {
+      "number": "§ 13",
+      "title": "Inanspruchnahme nicht verantwortlicher Personen",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Maßnahmen dürfen auch gegen unbeteiligte Personen gerichtet werden, wenn: a) eine gegenwärtige erhebliche Gefahr besteht, b) Maßnahmen gegen die Verantwortlichen nicht oder nicht rechtzeitig möglich sind, c) die Exekutive die Gefahr selbst nicht rechtzeitig abwehren kann, d) die betroffene Person ohne erhebliche Eigengefährdung oder Verletzung höherer Pflichten handeln kann. (2) Die Maßnahme ist zu beenden, sobald die Gefahr auf andere Weise abgewehrt werden kann."
+    },
+    {
+      "number": "§ 14",
+      "title": "Identitätsfeststellung",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Die Exekutive darf die Identität einer Person feststellen, wenn: a) dies zur Gefahrenabwehr oder Strafverfolgung erforderlich ist, b) die Exekutive eine allgemeine Personenkontrolle durchführt und dies vorher ausdrücklich so angekündigt hat, b) sich die Person an einem gefährdeten Ort aufhält, c) Tatsachen die Annahme rechtfertigen, dass sie Informationen zu einer Straftat hat oder d) sie sich in einem Kontrollbereich befindet. (2) Die Person kann in den Fällen des Absatzes 1 angehalten, befragt und verpflichtet werden, Ausweisdokumente vorzulegen. (3) Ist die Identität anders nicht oder nur mit unverhältnismäßigem Aufwand feststellbar, darf die Person vorläufig festgehalten werden."
+    },
+    {
+      "number": "§ 15",
+      "title": "Exekutivgewahrsam",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Eine Person darf in Exekutivgewahrsam genommen werden, wenn: a) dies zu ihrem Schutz vor Selbst- oder Fremdgefährdung erforderlich ist, b) es notwendig ist, eine unmittelbar bevorstehende Straftat oder erhebliche Ordnungswidrigkeit zu verhindern oder c) sie ohne Erlaubnis das Polizeigewahrsam verlassen hat. (2) Der Polizeigewahrsam darf nur solange andauern, wie sein Zweck dies erfordert, höchstens jedoch 45 Minuten."
+    },
+    {
+      "number": "§ 16",
+      "title": "Platzverweisung und Aufenthaltsverbot",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Zur Abwehr einer Gefahr kann eine Person vorübergehend von einem Ort verwiesen oder ihr das Betreten untersagt werden. (2) Ein Aufenthaltsverbot kann bis zu 3 Stunden verhängt werden, wenn Tatsachen belegen, dass die Person dort Straftaten begehen wird oder dazu beitragen könnte. (3) Bei fortgesetzter Störung kann die Maßnahme verlängert werden, wenn das Department of Justice zustimmt. (4) Bei erheblicher Störung einer Maßnahme, kann der Verursacher für die Dauer der Maßnahme in Polizeigewahrsam genommen werden. Der § 15 Abs. 2 bleibt unberührt."
+    },
+    {
+      "number": "§ 17",
+      "title": "Sicherstellung von Sachen",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Die Exekutive kann eine Sache sicherstellen, wenn: a) sie zur Abwehr einer gegenwärtigen Gefahr erforderlich ist, b) sie ein Beweismittel in einem Strafverfahren darstellt, c) sie dem Eigentümer entzogen werden muss, um Schaden abzuwenden oder d) sie illegal erlangt wurde, verboten oder gefährlich ist. (2) Über jede Sicherstellung ist ein Protokoll anzufertigen. (3) Die Rückgabe erfolgt, sobald der Sicherungsgrund entfällt, spätestens jedoch nach richterlicher Entscheidung."
+    },
+    {
+      "number": "§ 18",
+      "title": "Umgang mit sichergestellten Gegenständen",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Gegenstände, die im Rahmen eines Einsatzes oder Strafverfahrens sichergestellt oder beschlagnahmt wurden, sind der berechtigten Person auf Nachfrage ohne schuldhaftes zögern (unverzüglich) zurückzugeben, sobald sie für Beweiszwecke nicht mehr erforderlich sind. Holt der Eigentümer einer Sache oder ein von ihm Bevollmächtigter die Sache trotz Ermöglichung innerhalb von 7 Tagen nicht ab, ist die Sache zu unverzüglich vernichten. (2) Gegenstände, deren Besitz gesetzlich verboten ist oder die eine Gefahr für die öffentliche Sicherheit darstellen, sind von der Rückgabe ausgeschlossen und nach Verfall des Beweisverwertungszwecks unverzüglich zu vernichten."
+    },
+    {
+      "number": "§ 19",
+      "title": "Fesselung von Personen",
+      "chapter": {
+        "number": "III.",
+        "title": "Maßnahmen der Gefahrenabwehr"
+      },
+      "text": "(1) Eine Person darf gefesselt werden, wenn Tatsachen die Annahme rechtfertigen, dass sie: a) Beamte oder Dritte angreift, b) fliehen oder befreit werden soll oder c) sich selbst verletzt. (2) Fesselungen sind zu lösen, sobald der Sicherungszweck entfällt."
+    },
+    {
+      "number": "§ 20",
+      "title": "Ersatzvornahme",
+      "chapter": {
+        "number": "Im",
+        "title": "Übrigen dürfen Personen zum Zwecke der Sicherung eines Strafverfahrens gefesselt werden."
+      },
+      "text": "Wird die Verpflichtung, eine Handlung vorzunehmen, deren Vornahme durch einen anderen möglich ist (vertretbare Handlung), nicht oder nicht vollständig erfüllt, so können die Exekutivbehörden die Handlung selbst ausführen oder durch eine andere Stelle oder eine dritte Person ausführen lassen. Die pflichtige Person sowie Personen, die Mitgewahrsam an den beweglichen oder unbeweglichen Sachen der pflichtigen Person haben, sind zur Duldung der Ersatzvornahme verpflichtet."
+    },
+    {
+      "number": "§ 21",
+      "title": "Unmittelbarer Zwang",
+      "chapter": {
+        "number": "Im",
+        "title": "Übrigen dürfen Personen zum Zwecke der Sicherung eines Strafverfahrens gefesselt werden."
+      },
+      "text": "(1) Die Exekutive darf unmittelbaren Zwang anwenden, wenn andere Mittel ungeeignet oder erfolglos sind oder eine sofortige Handlung erforderlich ist. (2) Jede Anwendung ist zu dokumentieren und verhältnismäßig auszuführen. (3) Unmittelbarer Zwang ist die Einwirkung auf Personen oder Sachen durch körperliche Gewalt, Hilfsmittel oder Waffen. (4) Körperliche Gewalt umfasst jede unmittelbare physische Einwirkung auf Personen oder Sachen. (5) Hilfsmittel körperlicher Gewalt sind insbesondere: Fesseln, Reiz- und Betäubungsstoffe, technische Sperren, Dienstfahrzeuge oder Sprengmittel zur Türöffnung. (6) Zulässige Waffen richten sich nach den Bestimmungen des Waffenrechts."
+    },
+    {
+      "number": "§ 22",
+      "title": "Androhung",
+      "chapter": {
+        "number": "Im",
+        "title": "Übrigen dürfen Personen zum Zwecke der Sicherung eines Strafverfahrens gefesselt werden."
+      },
+      "text": "(1) Unmittelbarer Zwang ist vor seiner Anwendung anzudrohen, sofern die Lage es erlaubt. (2) Die Androhung kann bei Vorliegen von Gefahr im Verzug entfallen. (3) Als Androhung des Schusswaffengebrauchs gilt auch die Abgabe eines Warnschusses."
+    },
+    {
+      "number": "§ 23",
+      "title": "Schusswaffengebrauch",
+      "chapter": {
+        "number": "Im",
+        "title": "Übrigen dürfen Personen zum Zwecke der Sicherung eines Strafverfahrens gefesselt werden."
+      },
+      "text": "(1) Schusswaffen dürfen nur eingesetzt werden, wenn andere Maßnahmen des unmittelbaren Zwangs erfolglos waren oder offensichtlich keinen Erfolg versprechen. (2) Gegen Personen ist ihr Gebrauch nur zulässig, wenn: a) eine gegenwärtige Gefahr für Leib oder Leben abzuwehren ist, b) ein schweres Verbrechen unmittelbar bevorsteht, c) eine flüchtende Person dringend eines Verbrechens verdächtigt wird und bewaffnet sein könnte. (3) Der Einsatz ist unzulässig, wenn Unbeteiligte mit hoher Wahrscheinlichkeit gefährdet werden - außer, es besteht unmittelbare Lebensgefahr für andere."
+    },
+    {
+      "number": "§ 24",
+      "title": "Hilfeleistung für Verletzte",
+      "chapter": {
+        "number": "Im",
+        "title": "Übrigen dürfen Personen zum Zwecke der Sicherung eines Strafverfahrens gefesselt werden."
+      },
+      "text": "Nach Anwendung unmittelbaren Zwangs oder nach Schusswaffengebrauch ist Verletzten unverzüglich Hilfe zu leisten und, soweit erforderlich, ärztliche Versorgung sicherzustellen. Die allgemeine Pflicht zur Hilfeleistung im Notfall bleibt unberührt."
+    },
+    {
+      "number": "§ 25",
+      "title": "Beginn des Ermittlungsverfahrens",
+      "chapter": {
+        "number": "IV.",
+        "title": "Strafverfolgung"
+      },
+      "text": "(1) Erhalten die Staatsanwaltschaft oder die Exekutivbehörden Kenntnis davon, dass jemand eine Straftat begangen hat, so leiten sie ein Ermittlungsverfahren ein. Stellt jemand Strafanzeige oder Strafantrag, wird ebenfalls ein Ermittlungsverfahren eingeleitet. (2) Die Staatsanwaltschaft ist die Herrin des Ermittlungsverfahrens und ist den Exekutivbehörden diesbezüglich in jeder Hinsicht weisungsbefugt. (3) Ziel des Ermittlungsverfahrens ist die Erhebung von Beweisen, die die Schuldhaftigkeit des Täters feststellen. (4) Eine Tat wird nur auf Verdacht verfolgt. (5) Ein Tatverdacht besteht, wenn es konkrete Anhaltspunkte gibt, die darauf hindeuten, dass eine Person eine Straftat begangen haben könnte. Dieser Verdacht basiert auf Indizien, Zeugenaussagen oder anderen Beweisen, die eine gewisse Plausibilität für die Beteiligung der Person an der Straftat anzeigen. (6) Ein dringender Tatverdacht liegt vor, wenn der Verdacht einer Straftat aufgrund von Indizien und Beweisen deutlich erhärtet ist. Es müssen stärkere Anhaltspunkte vorhanden sein, die die Tatbeteiligung der Person wahrscheinlich machen."
+    },
+    {
+      "number": "§ 26",
+      "title": "Frist zur Anklageerhebung und Verfahrensdurchführung",
+      "chapter": {
+        "number": "IV.",
+        "title": "Strafverfolgung"
+      },
+      "text": "(1) Ermittlungsverfahren sind durch die Staatsanwaltschaft und die zuständigen Exekutivbehörden zügig und ohne künstliche Verzögerung zu führen. (2) Spätestens innerhalb von 14 Tagen nach Einleitung eines Ermittlungsverfahrens ist: a) entweder Anklage zu erheben, b) das Verfahren gemäß zu Überprüfen und einzustellen oder c) eine begründete Verlängerung beim Supreme Attorney oder der Leitung der Staatsanwaltschaft zu beantragen, die darüber entscheiden. (3) Eine Verlängerung nach Absatz 2 Buchstabe c ist nur zulässig, wenn: a) der Sachverhalt besonders komplex ist, b) wesentliche Beweismittel noch ausstehen, oder c) zwingende Gründe eine frühere Entscheidung unmöglich machen. (4) Ohne genehmigte Verlängerung darf ein Ermittlungsverfahren eine Dauer von 14 Tagen nicht überschreiten. (5) Wird die Frist nach Absatz 2 ohne rechtmäßige Verlängerung überschritten, ist das Verfahren unverzüglich einzustellen. (6) Nach Erhebung der Anklage ist durch die Richterschaft binnen 5 Tagen ein Termin zur Hauptverhandlung anzuberaumen. (7) Zwischen Anklageerhebung und Hauptverhandlung dürfen grundsätzlich nicht mehr als 14 Tage liegen, sofern keine besonderen Umstände entgegenstehen."
+    },
+    {
+      "number": "§ 27",
+      "title": "Durchsuchungen",
+      "chapter": {
+        "number": "IV.",
+        "title": "Strafverfolgung"
+      },
+      "text": "(1) Nur auf richterlichen Durchsuchungsbeschluss dürfen Personen, Fahrzeuge, Wohnräume und sonstige Räume sowie Flächen unter freiem Himmel zum Zwecke der Beweismittelerhebung durchsucht werden. Personen dürfen zum Zwecke der Eigensicherung von Exekutivbeamten ohne richterlichen Beschluss durchsucht werden; eine richterliche Bestätigung im Nachgang ist hierfür nicht erforderlich. (2) Bei Gefahr im Verzuge entfällt die Notwendigkeit eines richterlichen Beschlusses. In diesem Falle darf ein Mitglied der Leitungsebene der Exekutivbehörden eine Durchsuchung anordnen. Die Durchsuchung wegen Gefahr im Verzuge ist zu dokumentieren, muss insbesondere die rechtliche Begründung des Vorliegens von Gefahr im Verzuge enthalten. (3) Für Durchsuchungen auf den Drogenrouten (Routenrazzia) bedarf es einer richterlichen oder der Genehmigung des Supreme Attorneys im Nachgang. (4) Rechtswidrig durchgeführte Durchsuchungen führen zur Nichtverwertbarkeit der aufgefundenen Beweismittel im Strafverfahren. Auf Antrag der Staatsanwaltschaft kann die Richterschaft solche Beweismittel dennoch zulassen, wenn ihre Verwertung im besonderen öffentlichen Interesse liegt. Dies ist insbesondere der Fall, wenn Straftaten gegen das Leben oder gegen den Homeland Security Act vorgeworfen werden."
+    },
+    {
+      "number": "§ 28",
+      "title": "Anforderungen an einen Durchsuchungsbeschluss",
+      "chapter": {
+        "number": "IV.",
+        "title": "Strafverfolgung"
+      },
+      "text": "(1) Ein Durchsuchungsbeschluss oder die Genehmigung einer Routenrazzia setzt voraus, dass eine Durchsuchung der Wohnung, sonstiger Räume und Flächen unter freiem Himmel sowie von Personen und der ihnen gehörenden Sachen und Fahrzeuge vermuten lässt, dass die Durchsuchung zur Auffindung von Beweismitteln führen werde (Auffindeverdacht). (2) Der Durchsuchungsbeschluss muss die betroffene Person, den Ort, die Begründung der Durchsuchung (Absatz 1) und den zulässigen Zeitraum der Vollziehung des Beschlusses enthalten. Die Genehmigung der Routenrazzia muss lediglich den Ort, eine kurze Begründung und Beweisbilder enthalten, die aufzeigen, dass sich Personen oder Fahrzeuge auf der Route befinden. (3) Betroffenen ist eine Abschrift auszuhändigen. Der Beschluss gilt nur für die benannten Objekte und Personen. (4) Gegenstände, die bei einer Durchsuchung oder Routenrazzia aufgefunden werden und auf andere Straftaten hindeuten (Zufallsfunde), dürfen sichergestellt und verwertet werden."
+    },
+    {
+      "number": "§ 29",
+      "title": "Besondere Ermittlungshandlungen",
+      "chapter": {
+        "number": "IV.",
+        "title": "Strafverfolgung"
+      },
+      "text": "Zum Zwecke der Beweismittelerhebung dürfen die Exekutivbehörden Observationen und verdeckte Ermittlungen durchführen. Auf richterlichen Beschluss oder mit Genehmigung des Supreme Attorney dürfen die Exekutivbehörden die Telekommunikation eines Ermittlungsziels abhören; dies setzt voraus, dass die Überwachung der Telekommunikation erforderlich ist, weil andere Ermittlungshandlungen nicht zur Aufklärung der Tat beitragen können und es um Vorwürfe schwerwiegender Straftaten geht."
+    },
+    {
+      "number": "§ 30",
+      "title": "Verhaftung und Verlesung der Rechte",
+      "chapter": {
+        "number": "IV.",
+        "title": "Strafverfolgung"
+      },
+      "text": "(1) Hat eine Exekutivbehörde den dringenden Verdacht, dass jemand eine Straftat begangen hat, ist sie autorisiert, die betroffene Person zu verhaften. (2) Unter Verhaftung ist zu verstehen, dass die Person mit dem Hintergrund strafrechtlicher Verfolgung in Handschellen gelegt wird. (3) Ab dem Zeitpunkt der Verhaftung gilt die Person als Beschuldigter. Dem Beschuldigten sind nach der Verhaftung aber noch vor der Verbringung in eine Haftzelle die Rechte wie folgt zu verlesen: \"Sie haben das Recht zu schweigen. Alles was Sie sagen kann und wir vor Gericht gegen Sie verwendet werden. Sie haben das Recht auf einen Anwalt. Falls Sie keinen Anwalt haben wird Ihnen, insofern einer verfügbar ist, gestellt.\". Bei unübersichtlichen Einsatzlagen kann die Verlesung der Rechte auch nach Verbringung in eine Zelle, spätestens jedoch 15 Minuten nach Verbringung in die Zelle, erfolgen. Die Unübersichtlichkeit der Einsatzlage ist im Zweifel durch die Exekutivbehörden nachzuweisen. (4) Ein Verstoß gegen die Belehrungspflicht führt, sofern der Verstoß wesentlich ist, zur Unverwertbarkeit von Aussagen, die vor der Belehrung seitens des Beschuldigten getroffen wurden und ist im Rahmen der Strafzumessung mildernd zu berücksichtigen."
+    },
+    {
+      "number": "§ 31",
+      "title": "Untersuchungshaft",
+      "chapter": {
+        "number": "IV.",
+        "title": "Strafverfolgung"
+      },
+      "text": "(1) Die Untersuchungshaft kann zum Zwecke der Klärung des Sachverhalts und der intensiveren Beweismittelerhebung durch die Exekutivbehörden verhängt werden, wenn ein dringender Tatverdacht sowie Fluchtgefahr oder Verdunkelungsgefahr vorliegt. (2) Die Untersuchungshaft darf maximal 30 Minuten betragen. Sie kann auf Anordnung der Staatsanwaltschaft auf maximal 60 Minuten erhöht werden, wenn die Klärung des Sachverhaltes dies erfordert. (3) Wird ein Anwalt hinzugezogen, so ist der Ablauf der Untersuchungshaft bis zur finalen Einigung mit dem Rechtsanwalt gehemmt. (4) Die Richterschaft kann die Untersuchungshaft auf Antrag aufheben. Dem Antrag ist nur stattzugeben wenn: a) die Untersuchungshaft den Beschuldigten unverhältnismäßig in seinen Grundrechten verletzt, b) die Untersuchungshaft ohne Begründung und objektiv willkürlich verhängt wird oder c) die Untersuchungshaft für die weitere Abhandlung nicht zielführend ist, weil sich das Strafmaß durch eine Untersuchungshaft nicht maßgeblich verändert. Hebt die Richterschaft eine Untersuchungshaft auf, ist das Strafmaß entweder sofort zu verhängen oder der Beschuldigte ist mit der Auflage, sich regelmäßig bei der nächsten Polizeidienststelle zu melden, freizulassen. (5) Wird Untersuchungshaft rechtswidrig länger vollzogen oder hebt die Richterschaft diese mangels Anwesenheit eines Richters nicht auf, so kann im Nachgang auf Schadensersatz geklagt werden. (6) Untersuchungshaft kann durch einen Richter auf das Strafmaß einer Haft im Staatsgefängnis angerechnet werden."
+    },
+    {
+      "number": "§ 33",
+      "title": "Ordnungsgemäße Aktenführung durch Exekutivbeamte",
+      "chapter": {
+        "number": "V.",
+        "title": "Aktenführung"
+      },
+      "text": "(1) Exekutivbeamte sind verpflichtet, über jeden relevanten Einsatz oder Vorfall eine vollständige, wahrheitsgemäße und nachvollziehbare Akte zu führen. (2) Die Akte hat alle wesentlichen Informationen zum Einsatz zu enthalten, insbesondere Angaben zu Zeit, Ort, beteiligten Beamten, dem Sachverhalt, den getroffenen Maßnahmen sowie zu beteiligten Personen, erhobenen Vorwürfen, sichergestellten Gegenständen und erfolgten Rechtsbelehrungen. Nicht zutreffende Punkte sind nicht aufzunehmen. (3) Bei Ordnungswidrigkeiten sind unabhängig von den Absätzen 1 und 2 nur die wesentlichen Angaben aktenkundig zu dokumentieren, insbesondere Zeit, Ort, beteiligte Beamte, betroffene Personen, die festgestellte Ordnungswidrigkeit sowie verhängte Sanktionen. Wird im gleichen oder einem anderen Zusammenhang eine Straftat festgestellt, gelten wieder die Absätze 1 und 2. (4) Für die Erstellung einer Akte haben Exekutivbeamte 48 Stunden Zeit. Versäumnisse können zur Beweiswürdigung oder Verfahrenseinstellung führen."
+    },
+    {
+      "number": "§ 34",
+      "title": "Bereinigung von wesentlichen Aktenfehlern",
+      "chapter": {
+        "number": "V.",
+        "title": "Aktenführung"
+      },
+      "text": "(1) Fehlen wesentliche Informationen oder bestehen Widersprüche, kann das Verfahren auf richterliche Anordnung ausgesetzt werden, um die Mängel zu identifizieren und zu bereinigen oder, falls dies nicht möglich ist, das Verfahren in Gänze einzustellen. Währenddessen ruhen Strafvollzug und der Vollzug sonstiger Entscheidungen nach diesem Gesetz. (2) Die Entscheidung nach Absatz 1 Satz 1 ist innerhalb von 3 Tagen zu treffen."
+    },
+    {
+      "number": "§ 35",
+      "title": "Löschung von Akten",
+      "chapter": {
+        "number": "V.",
+        "title": "Aktenführung"
+      },
+      "text": "Strafakten dürfen frühestens nach Ablauf von 60 Tagen nach der zugrundeliegenden Strafentscheidung gelöscht werden. Die Löschung erfolgt nur auf Antrag und wird ausschließlich durch den Chief Justice durchgeführt."
+    },
+    {
+      "number": "§ 36",
+      "title": "Anhörung bei Strafsanktionen durch die Exekutive",
+      "chapter": {
+        "number": "VI.",
+        "title": "Rechte des Beschuldigten; Zeugen"
+      },
+      "text": "Der Beschuldigte ist vor der Verhängung einer Strafe anzuhören, wenn die Exekutivbehörden ein Strafe verhängen. Ihm ist dabei die Gelegenheit zu geben, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern. Die Aussage des Beschuldigten hat in die Entscheidung über die Verhängung des Strafmaßes einzufließen."
+    },
+    {
+      "number": "§ 37",
+      "title": "Aussageverweigerungsrecht des Beschuldigten",
+      "chapter": {
+        "number": "VI.",
+        "title": "Rechte des Beschuldigten; Zeugen"
+      },
+      "text": "(1) Der Beschuldigte hat das Recht, die Antwort auf solche Fragen zu verweigern, deren Antwort ihn selbst belasten würde. Wenn er dennoch Angaben zur Sache macht, ist er nicht zur Wahrheit verpflichtet. (2) Der Beschuldigte hat die Pflicht, Angaben zu seinen persönlichen Verhältnissen zu machen. Hierbei ist er zur wahrheitsgemäßen Aussage verpflichtet. (3) Aussagen, die unter Verletzung dieses Rechts zustande kommen, sind unverwertbar."
+    },
+    {
+      "number": "§ 38",
+      "title": "Recht auf Verteidiger",
+      "chapter": {
+        "number": "VI.",
+        "title": "Rechte des Beschuldigten; Zeugen"
+      },
+      "text": "(1) Beschuldigte haben jederzeit das Recht, sich im Strafverfahren von einem zugelassenen Anwalt verteidigen zu lassen. Findet sich hierfür kein Anwalt auf freiwilliger Basis, kann ein zugelassener Anwalt auf richterliche Anordnung zur Verteidigung des Beschuldigten verpflichtet werden, wenn die vorgeworfenen Taten erheblich sind. (2) Die Anzahl der Strafverteidiger ist auf zwei begrenzt."
+    },
+    {
+      "number": "§ 39",
+      "title": "Zeugen und Zeugnisverweigerungsrecht",
+      "chapter": {
+        "number": "VI.",
+        "title": "Rechte des Beschuldigten; Zeugen"
+      },
+      "text": "(1) Zeugen sind grundsätzlich zur wahrheitsgemäßen Aussage verpflichtet, wenn ihre Angaben zum Ermittlungserfolg beitragen. Sie können auf die Wahrheit vereidigt werden, um ihrer Aussage besonderes Gewicht zu verleihen. (2) Zeugen dürfen die Aussage verweigern, wenn sie sich selbst belasten würden. Zeugen dürfen darüber hinaus die Aussage auf Fragen verweigern, wenn a) sie mit dem Beschuldigten einer Straftat verheiratet oder in gerader Linie verwandt sind oder der Zeuge Bruder oder Schwester des Beschuldigten ist; b) sie im Rahmen eines anwaltlichen Mandatsverhältnisses zur Verschwiegenheit über die den Beschuldigten betreffenden Angelegenheiten verpflichtet wurde und der Zeuge von dem Beschuldigten nicht von dieser Verschwiegenheitspflicht entbunden wurde oder c) sie als Berufsgeheimnisträger zur Verschwiegenheit verpflichtet wurden und keine Aussagegenehmigung ihres Dienstherrn vorliegt. Das Recht aus Satz 1 Nummer 2 gilt auch nach Beendigung des Mandatsverhältnisses fort, betrifft dann aber nur Angelegenheiten, die während des Mandatsverhältnisses bekannt wurden. (3) Vor der Vernehmung sind Zeugen über die Wahrheitspflicht, die Strafbarkeit von uneidlicher Falschaussage und die mögliche Vereidigung auf die Wahrheit sowie die Strafbarkeit von Meineid zu belehren. (4) Zeugen sind grundsätzlich einzeln zu vernehmen."
+    },
+    {
+      "number": "§ 40",
+      "title": "Zeugenschutzprogramm",
+      "chapter": {
+        "number": "VI.",
+        "title": "Rechte des Beschuldigten; Zeugen"
+      },
+      "text": "(1) Personen, die durch ihre Aussage erheblich gefährdet sind, können in ein Zeugenschutzprogramm aufgenommen werden. (2) Über die Aufnahme entscheiden das Department of Justice und Vertreter der Leitungen der Exekutive gemeinsam. (3) In dringenden Fällen genügt die vorläufige Zustimmung einer dieser Stellen; die andere ist unverzüglich nachträglich zu beteiligen. (4) Maßnahmen können Identitätsänderungen, Schutzunterbringung und Kommunikationssicherung umfassen. (5) Der Zeugenschutz endet mit richterlicher Bestätigung oder nach Ablauf der Maßnahme."
+    },
+    {
+      "number": "§ 41",
+      "title": "Einstellung von Verfahren durch die Staatsanwaltschaft",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Die Staatsanwaltschaft kann ein Strafverfahren einstellen, wenn kein ausreichender Tatverdacht besteht oder die Beweise nicht für eine Anklage ausreichen. (2) Die Staatsanwaltschaft kann ein Verfahren ebenfalls einstellen, wenn die Schuld als gering anzusehen ist oder kein öffentliches Interesse an der Strafverfolgung besteht. (3) Mit der Einstellung des Verfahrens gilt das Strafverfahren als endgültig beendet, sofern innerhalb von 7 Tagen nach Einstellung keine neuen Beweise auftauchen."
+    },
+    {
+      "number": "§ 42",
+      "title": "Außergerichtlicher Vergleich",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Ein außergerichtlicher Vergleich zwischen Staatsanwaltschaft und Beschuldigten ist zur Vereinfachung des Verfahrens oder für den Erfolg eines anderen Ermittlungsverfahrens jederzeit zulässig. Er bedarf richterlicher Billigung. Mit Billigung sind Berufung und Revision ausgeschlossen. (2) Vergleiche müssen die wesentlichen Tatsachen, Strafvorschläge und die Zustimmung des Beschuldigten schriftlich dokumentieren. (3) Ein ohne richterliche Billigung geschlossener Vergleich ist unwirksam."
+    },
+    {
+      "number": "§ 43",
+      "title": "Strafbefehlsverfahren",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Bei einfachen Straftaten kann die Staatsanwaltschaft beim zuständigen Gericht den Erlass eines Strafbefehls beantragen. Ein Strafbefehl darf ausschließlich Geldstrafen oder Haftstrafen bis zu 90 Hafteinheiten beinhalten. Die Richterschaft entscheidet binnen 3 Tagen über den Erlass eines Strafbefehls oder alternativ über die Eröffnung eines Hauptverfahrens. (2) Der Beschuldigte kann binnen 3 Tagen nach Entscheidung Einspruch gegen einen Strafbefehl erheben. Der Einspruch steht der Einlegung der Berufung oder Revision gleich. Für die Erhebung des Einspruchs gegen einen Strafbefehl besteht Anwaltszwang. Nach Ablauf der Frist kann kein Einspruch mehr erhoben werden."
+    },
+    {
+      "number": "§ 44",
+      "title": "Erhebung der Anklage",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Kommt die Staatsanwaltschaft im Zuge ihrer Ermittlungen zu dem Ergebnis, dass die Beweislage in ausreichendem Maße gegen einen Beschuldigten spricht und hat sie nicht den Erlass eines Strafbefehls beantragt, erhebt sie Anklage vor dem zuständigen Gericht. (2) Erhebt die Staatsanwaltschaft Klage vor Gericht, so hat sie eine Anklageschrift zu verfassen. Der Anklageschrift sind alle Beweismittel beizufügen. Anklageschrift und Beweismittel sind dem Gericht und dem Verteidiger des Beschuldigten oder, wenn ein Verteidiger nicht vorhanden ist, dem Beschuldigten selbst zugänglich zu machen."
+    },
+    {
+      "number": "§ 45",
+      "title": "Eröffnung der Hauptverhandlung",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Die Richterschaft beschließt auf Grundlage der Anklage die Eröffnung der Hauptverhandlung. Der Beschluss ist schriftlich abzufassen. Die Richterschaft kann auch bei einem Berufungs- oder Revisionsantrag eine Hauptverhandlung eröffnen. Die nachfolgenden Vorschriften gelten entsprechend. (2) Nach Eröffnung der Hauptverhandlung ist eine Einstellung des Verfahrens durch die Staatsanwaltschaft nicht mehr möglich."
+    },
+    {
+      "number": "§ 46",
+      "title": "Einstellung des Verfahrens durch das Gericht",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Das Gericht kann das Verfahren auf Antrag der Staatsanwaltschaft einstellen, wenn ein außergerichtlicher Vergleich geschlossen wurde oder wenn eine unzureichende Beweislage ein Hauptverfahren entbehrlich macht. (2) Fällt eine Änderung des Gesetzes mit der Erhebung einer Anklage zusammen und führt die Gesetzesänderung dazu, dass die Erhebung der Klage aufgrund von Nichtstrafbarkeit einer vorgeworfenen Tat nicht länger möglich ist, wird das Verfahren durch die Richterschaft eingestellt."
+    },
+    {
+      "number": "§ 47",
+      "title": "Vorverfahren",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Das Gericht entscheidet nach Erhebung der Anklage im Rahmen eines mündlichen Vorverfahrens über die Zulassung der Anklage. Im Vorverfahren werden Staatsanwaltschaft und Verteidigung angehört. Die Entscheidung über die Zulassung der Anklage bemisst sich an den Voraussetzungen für den Erlass eines Durchsuchungsbeschlusses. (2) Wird die Klage rechtskräftig abgewiesen, hat die Staatsanwaltschaft 7 Tage Zeit, neue Beweismittel vorzulegen, die eine Anklage in ausreichendem Maße stützen. Verstreicht diese Frist fruchtlos, ist das Ermittlungsverfahren endgültig einzustellen."
+    },
+    {
+      "number": "§ 48",
+      "title": "Bestimmung des Termins für die Hauptverhandlung; Vorladung des Beschuldigten; Öffentliche Zustellung",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Hat die Richterschaft die Eröffnung der Hauptverhandlung nach Zulassung der Anklage beschlossen, so bestimmt sie i einen Termin für die Hauptverhandlung. Im Anschluss ist der Beschuldigte durch das Gericht unverzüglich vorzuladen. (2) Zwischen der Bekanntgabe der Ladung an den Angeklagten und dem Beginn der Hauptverhandlung muss eine Frist von mindestens 3 Tagen liegen. (3) Eine Verkürzung dieser Frist ist nur zulässig, wenn: a) der Angeklagte und sein Verteidiger zustimmen (Verzichtserklärung) oder b) Gefahr im Verzug besteht und dies vom Richter ausführlich begründet wird. (4) Die Ladung zur Hauptverhandlung ist dem Angeklagten persönlich oder dessen Verteidiger bekanntzugeben. Die Ladung gilt als bekanntgegeben, wenn der Angeklagte oder sein Verteidiger von deren Inhalt Kenntnis erlangt haben. Ist kein Verteidiger bestellt worden und der Angeklagte unbekannten Aufenthaltes, kann die Ladung öffentlich bekanntgegeben werden. In diesem Fall wird für die Dauer von einer Woche auf der Website des DOJ eine Mitteilung veröffentlicht, die zum Gegenstand hat: Name des Angeklagten, Art des Dokuments, Aktenzeichen und Datum des Dokuments. Nach Ablauf der Woche gilt die Ladung abweichend von Satz 2 als bekanntgegeben. (5) Findet die Verhandlung statt, ohne dass die Frist von 3 Tagen gewahrt wurde oder eine ordnungsgemäße Bekanntgabe der Ladung erfolgte, ist das Verfahren auf Antrag der Verteidigung auszusetzen. Bereits ergangene Versäumnisurteile sind in diesem Fall nichtig."
+    },
+    {
+      "number": "§ 49",
+      "title": "Vorladung von Zeugen",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Zeugen der Anklage sind durch die Staatsanwaltschaft vorzuladen. Zeugen der Verteidigung sind durch den zuständigen Strafverteidiger vorzuladen. (2) Vorladungen von Gericht, Staatsanwaltschaft und Verteidigung ist Folge zu leisten. (3) § 48 Absatz 2 bis 4 ist entsprechend anzuwenden."
+    },
+    {
+      "number": "§ 50",
+      "title": "Vorführungsbefehl",
+      "chapter": {
+        "number": "VII.",
+        "title": "Strafprozess"
+      },
+      "text": "(1) Erscheinen der Beschuldigte oder geladene Zeugen unentschuldigt nicht zu einer terminierten Verhandlung oder einem staatsanwaltschaftlich angeordneten Verhör, können das Gericht oder die Staatsanwaltschaft einen Vorführungsbefehl zur zwangsweisen Vorführung der Person erlassen. Der Vorführungsbefehl wird durch die Exekutivbehörden vollzogen. (2) Ein Vorführungsbefehl kann auch erlassen werden, wenn die Richterschaft einen sonstigen Rechtsstreit nur im Beisein der betroffenen Personen klären kann. (3) Ein Vorführungsbefehl kann auch für sonstige Zwecke erlassen werden, die der Sicherung des Strafverfahrens dienen."
+    },
+    {
+      "number": "§ 50",
+      "title": "Ablehnung eines Richters wegen Besorgnis der Befangenheit",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Richter können bei Besorgnis der Befangenheit abgelehnt werden. Über den Antrag entscheidet ein unbeteiligter Richter. Bei personellen Engpässen innerhalb der Richterschaft gilt ein Befangenheitsantrag als abgelehnt. (2) Befangenheit kann insbesondere vorliegen, wenn persönliche Beziehungen oder wirtschaftliche Interessen bestehen."
+    },
+    {
+      "number": "§ 51",
+      "title": "Ausschluss von Verteidigern wegen Beteiligung",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "Ein Strafverteidiger kann auf Antrag vom Verfahren ausgeschlossen werden, wenn er selbst an der Tat beteiligt ist. Über den Antrag entscheidet die Richterschaft."
+    },
+    {
+      "number": "§ 52",
+      "title": "Nebenklage",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "Tatopfer erhalten das Recht, dem Verfahren als Nebenkläger mit eigenem Anwaltsbeistand beizutreten."
+    },
+    {
+      "number": "§ 53",
+      "title": "Ununterbrochene Gegenwart",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Während der Hauptverhandlung haben die Prozessbeteiligten ununterbrochen anwesend zu sein. (2) Kann die Anwesenheit eines Beteiligten nicht ermöglicht werden, liegt die Fortführung der Verhandlung im Ermessen der Richterschaft. (3) Absatz 2 gilt nicht für den Angeklagten."
+    },
+    {
+      "number": "§ 54",
+      "title": "Anwesenheitspflicht des Angeklagten; Verfahren bei Abwesenheit von Zeugen oder dem Angeklagten",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Der Angeklagte hat zur Hauptverhandlung anwesend zu sein. (2) Ist die Abwesenheit durch gesundheitliche Gründe bedingt, wird die Hauptverhandlung bis zur Genesung des Angeklagten ausgesetzt. (3) Ist ein vorgeladener Zeuge abwesend und konnte auch mittels Vorführungsbefehl nicht beigetrieben werden, kann die Verhandlung ohne diesen stattfinden oder auf Antrag vertagt werden. (4) Ist der Angeklagte abwesend, wird die Verhandlung grundsätzlich ausgesetzt, bis der Angeklagte der Richterschaft vorgeführt werden kann. (5) Von Absatz 4 kann abgewichen werden wenn a) eine Verurteilung aus Gründen der nationalen Sicherheit erforderlich ist oder b) wenn der Angeklagte sich bewusst und dauerhaft dem Verfahren entzieht und seine Anwesenheit trotz zumutbarer Maßnahmen nicht hergestellt werden kann. Die Entscheidung nach Satz 1 trifft ausschließlich die Richterschaft."
+    },
+    {
+      "number": "§ 55",
+      "title": "Aussetzung und Unterbrechung",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Erachtet die Richterschaft es für notwendig, kann die Verhandlung ausgesetzt und zu einem späteren Zeitpunkt fortgeführt werden. (2) Die Sitzung kann durch die Richterschaft für eine kurze Dauer pausiert werden (Unterbrechung)."
+    },
+    {
+      "number": "§ 56",
+      "title": "Öffentlichkeit",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Hauptverhandlungen sind grundsätzlich öffentlich. (2) Auf Antrag oder von Amts wegen kann die Öffentlichkeit ausgeschlossen werden, wenn Persönlichkeitsrechte, Sicherheitsinteressen oder die Ermittlungen dies erfordern. Die Entscheidung darüber trifft die Richterschaft."
+    },
+    {
+      "number": "§ 57",
+      "title": "Gang der Hauptverhandlung",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Die Hauptverhandlung hat folgenden Gang: Die Richterschaft eröffnet offiziell die Verhandlung indem der Fall, das Aktenzeichen des Falls und die gegeneinander antretenden Parteien genannt werden, Der Vorsitzende stellt die Anwesenheit der Prozessbeteiligten fest, Der Vorsitzende erteilt der Staatsanwaltschaft zur Verlesung der Anklageschrift das Wort, Der Vorsitzende erteilt das Wort dem Angeklagten, der die Gelegenheit erhält, sich zur Sache zu äußern, Die Prozessbeteiligten erhalten die Gelegenheit, Anträge einzureichen, Der Vorsitzende eröffnet die Beweisaufnahme, Es werden nacheinander die angemeldeten Zeugen aufgerufen; die Richterschaft nimmt die Personalien der Zeugen für das Protokoll auf, Die Zeugen werden über Ihre Wahrheitspflicht und das Zeugnisverweigerungsrecht belehrt, Ggf. Feststellung eines Sachverständigen als Zeugen durch die Richterschaft, Die Zeugen werden durch die Prozessbeteiligten befragt, Der Angeklagte wird durch die Prozessbeteiligten befragt, Ggf. werden weitere Beweismittel präsentiert, Der Vorsitzende beendet die Beweisaufnahme, Die Staatsanwaltschaft trägt ihr Schlussplädoyer vor, Die Verteidigung beziehungsweise der Angeklagte trägt ihr Schlussplädoyer vor, Die Richterschaft zieht sich zur Urteilsfindung zurück und unterbricht hierfür die Sitzung, das Urteil wird verkündet; alle Anwesenden müssen sich erheben, das Urteil wird begründet; alle Anwesenden müssen sich setzen, Die Verhandlung wird geschlossen. Wird die Reihenfolge aus Satz 1 geringfügig nicht eingehalten, stellt dies keinen Verfahrensfehler dar."
+    },
+    {
+      "number": "§ 58",
+      "title": "Einsprüche gegen Beweismittel",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Gegen Fragen der Prozessbeteiligten (ausgenommen Richterschaft), Zeugenaussagen, Aussagen des Angeklagten oder die Präsentation von bestimmten Beweismitteln kann Einspruch erhoben werden. Folgende Einsprüche sind vor Gericht zulässig: a) Gegenstandslos (Nicht von Bedeutung für die Verhandlung) b) Illegal beschafft (Beweismittel, das nicht auf legalem Wege beschafft wurde oder gefälscht ist) c) Unvollständig (Beweismittel nicht in Gänze vorliegend) d) Abschweifung (Der Zeuge schweift ab und antwortet nicht kurz und knapp auf die Frage, die ihm gestellt wurde. Irrelevante Informationen werden mitgeteilt.) e) Hörensagen (Der Zeuge tätigt eine Aussage, die er über Dritte erhalten hat und nicht selbst verifizieren kann) f) Vermutung g) Zeugeneinschüchterung (durch Zeugen oder Befrager) h) Mehrdeutig / Irreführend (die Frage ist nicht eindeutig genug) i) Gesetz erklärend (der Staatsanwalt/der Verteidiger stellt eine Frage, wo der Gesetzestext ausgelegt wird) j) Aufruf zur Spekulation (die Frage fordert den Zeugen auf, unpräzise zu Antworten und eigene Schlüsse zu ziehen) k) Doppelfrage (mehrere Fragen werden auf einmal gestellt) l) Fehlende Kompetenz (nur bei Sachverständigen-Befragung; ein Sachverständiger wird zu einem ihm fremden Fachgebiet- oder auf einem zu hohen Niveau seines eigenen Fachgebietes befragt) m) Irrelevant (Die Frage ist für die Tatsachenfeststellung nicht von Bedeutung) n) Suggestivfrage (Frage, die so gestellt ist, dass eine bestimmte Antwort in gewisser Hinsicht “vorformuliert” wird) Weitere Einsprüche, die in der in Satz 2 aufgeführten Liste nicht vorkommen, können zulässig sein. (2) Wird seitens der Prozessbeteiligten Einspruch erhoben, entscheidet die Richterschaft über die Zulässigkeit. (3) Eine unzulässige Frage darf nicht weiter gestellt werden. Auf eine unzulässige Frage muss nicht geantwortet werden. Die Antwort auf eine unzulässige Frage darf nicht in die Urteilsfindung einfließen."
+    },
+    {
+      "number": "§ 59",
+      "title": "Schlussplädoyers; Recht des letzten Wortes",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Die Prozessbeteiligten (Staatsanwaltschaft und Verteidigung) haben das Recht, Schlussplädoyers zu halten. (2) Der Angeklagte hat das Recht des letzten Wortes."
+    },
+    {
+      "number": "§ 60",
+      "title": "Urteil",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Im Rahmen der Urteilsfindung sondiert das Gericht die Beweislage und die Argumentation der übrigen Prozessbeteiligten und findet nach pflichtgemäßem Ermessen ein Urteil. (2) Unbestimmte Rechtsbegriffe werden im Rahmen der Urteilsfindung durch die Richterschaft ausgelegt. Die Auslegung hat dabei verfassungskonform zu erfolgen. (3) Das Urteil wird im Namen des Volkes verkündet und muss schriftlich abgefasst werden. Im Anschluss an die Hauptverhandlung ist das Urteil zu veröffentlichen."
+    },
+    {
+      "number": "§ 63",
+      "title": "Berufung und Revision",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Gegen erstinstanzliche Entscheidungen in Strafsachen stehen ausschließlich die Rechtsmittel der Berufung und der Revision offen. Rechtsmittel müssen binnen zwei Tagen nach Bekanntgabe der Erstentscheidung schriftlich eingelegt werden. Über die Zulassung der Rechtsmittel entscheidet die Richterschaft. Im Grundsatz muss erst Berufung eingelegt werden, bevor Revision eingelegt werden kann. (2) Im Rahmen von Berufungsverhandlungen werden neue Tatsachen und Beweise geprüft, wenn sie ohne grobe Nachlässigkeit zuvor nicht vorgebracht werden konnten. (3) Im Rahmen von Revisionsverhandlungen werden allein Rechtsfehler geprüft. Maßgeblich sind Verfahrensrecht und richtige Anwendung des materiellen Rechts. (4) Für Berufung und Revision besteht Anwaltszwang. (5) Wird eine Entscheidung nur wegen Rechtsfehlern angefochten, wird dies als Sprungrevision gewertet. Im Falle einer Sprungrevision wird die Berufung übersprungen. Das Revisionsurteil ist in diesem Fall endgültig und eine Berufung im Nachgang ausgeschlossen."
+    },
+    {
+      "number": "§ 64",
+      "title": "Bewährungsstrafe",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Richter können Strafen im Rahmen einer Hauptverhandlung oder der Entscheidung über Berufung oder Revision zur Bewährung aussetzen. (2) Eine Aussetzung zur Bewährung kann entschieden werden, wenn zu erwarten ist, dass der Verurteilte sich schon die Verurteilung zur Warnung dienen lassen und künftig auch ohne die Einwirkung des Strafvollzugs keine Straftaten mehr begehen wird. Dabei sind namentlich die Persönlichkeit des Verurteilten, sein Vorleben, die Umstände seiner Tat, sein Verhalten nach der Tat, seine Lebensverhältnisse und die Wirkungen zu berücksichtigen, die von der Aussetzung für ihn zu erwarten sind."
+    },
+    {
+      "number": "§ 65",
+      "title": "Strafarten und Umwandlungsrechner",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Mögliche Strafarten sind Geldstrafe, Freiheitsstrafe, Sozialstunden, verbindliche Gutachten, Lizenzentzug, Empfehlungen für disziplinarische Maßnahmen im öffentlichen Dienst. (2) Umrechnung: - 1 Hafteinheit entspricht 2.500 Dollar; - 7 Sozialstunden entsprechen 2.500 Dollar; - 1 Hafteinheit entspricht 7 Sozialstunden; (3) Eine Umwandlung ist zulässig, sofern: a) keine besondere Schwere der Tat vorliegt, b) keine Gefährdung der öffentlichen Sicherheit zu erwarten ist, c) und keine Wiederholungsgefahr besteht. (4) Eine Umwandlung von Geldstrafe in Haft ist zulässig, wenn die Geldstrafe nicht innerhalb der gesetzten Frist beglichen wird. Die Entscheidung über Umwandlung trifft das zuständige Gericht oder Behörde nach pflichtmäßigem Ermessen. (5) Freiheitsstrafen ab 60 Hafteinheiten werden im Staatsgefängnis vollstreckt. Ausnahmen sind durch die Staatsanwaltschaft zu erlassen."
+    },
+    {
+      "number": "§ 66",
+      "title": "Umgang mit Verfahrensfehlern",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "Bei Verfahrensfehlern nach diesem Gesetz entsteht dem Geschädigten ein Anspruch auf Schadensersatz. Die Höhe richtet sich nach der Schwere des Schadens. Der Anspruch muss gerichtlich geltend gemacht werden. Für dieses Verfahren besteht Anwaltszwang."
+    },
+    {
+      "number": "§ 67",
+      "title": "Schmerzensgeld",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "Opfer können beim zuständigen Gericht Schmerzensgeld beantragen, wenn Sie als Nebenkläger am Verfahren teilnehmen. Die Höhe richtet sich nach der Schwere des erlittenen Schadens durch die Tat. § 24 des Zivilgesetzbuches ist anzuwenden."
+    },
+    {
+      "number": "§ 68",
+      "title": "Auflagen",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "Das Gericht kann zusätzlich zu einem Strafurteil Auflagen erteilen. Zulässig sind Schadenswiedergutmachung, Zahlungen an gemeinnützige Einrichtungen, gemeinnützige Leistungen und ärztliche Gutachten. Auflagen dürfen nicht unzumutbar sein."
+    },
+    {
+      "number": "§ 70",
+      "title": "Aufhebung ärztlicher Schweigepflicht im Strafverfahren; Blutproben zur Beweissicherung",
+      "chapter": {
+        "number": "VIII.",
+        "title": "Hauptverhandlung, Rechtsmittel und Strafarten"
+      },
+      "text": "(1) Ärzte werden grundsätzlich nur auf Freigabe des betreffenden Patienten von ihrer Schweigepflicht entbunden. (2) Ergebnisse von Untersuchungen, die im Rahmen von Strafverfahren gerichtlich angeordnet wurden, dürfen von der Ärzteschaft an den zuständigen Richter übermittelt werden. (3) Das LSMD ist auf Anordnung der Exekutivbehörden berechtigt, zur Beweissicherung Blutproben von Personen zu entnehmen, sofern dies für ein laufendes oder einzuleitendes Verfahren erforderlich ist. Eine vorherige Abstimmung mit dem Department of Justice ist nicht erforderlich. Die Entnahme kann auch gegen den Willen der betroffenen Person, auf richterliche Anordnung oder bei Gefahr im Verzug durchgeführt werden. Die Ergebnisse der Blutuntersuchung dürfen als Beweis auch ohne Schweigepflichtsentbindung verwertet werden."
+    },
+    {
+      "number": "§ 71",
+      "title": "Haftanstalt und persönliche Habe",
+      "chapter": {
+        "number": "IX.",
+        "title": "Strafvollstreckung"
+      },
+      "text": "(1) Haftanstalten sind Untersuchungshaftzellen und das Staatsgefängnis. (2) Nicht tatbezogene Gegenstände (persönliche Habe) sind nach Haftende herauszugeben."
+    },
+    {
+      "number": "§ 72",
+      "title": "Strafvollzug von hohen Haftstrafen",
+      "chapter": {
+        "number": "IX.",
+        "title": "Strafvollstreckung"
+      },
+      "text": "(1) Bei verhängten Strafen ab einer Gesamthaftdauer von 60 Hafteinheiten oder mehr, und sofern keine unmittelbare Gefahr für die öffentliche Sicherheit oder Ordnung ausgeht, tritt die Haftstrafe nicht unmittelbar in Vollzug. (2) Der Verurteilte wird stattdessen unter gerichtlicher Aufsicht auf Bewährung entlassen, bis der festgesetzte Haftantritt erfolgt (Haftaufschub). (3) Der Verurteilte hat sich zu festgelegten Terminen bei der zuständigen Exekutivbehörde einzufinden."
+    },
+    {
+      "number": "§ 73",
+      "title": "Verfahren bei Nichterscheinen zum Haftantritt",
+      "chapter": {
+        "number": "IX.",
+        "title": "Strafvollstreckung"
+      },
+      "text": "(1) Erscheint der Verurteilte nicht zu einem festgesetzten Haftantrittstermin, wird unverzüglich ein Haftbefehl gegen ihn erlassen. (2) In diesem Fall wird die bestehende Haftstrafe um 25 % erhöht, mindestens jedoch um 20 Hafteinheiten, um den Fluchtversuch strafrechtlich zu sanktionieren. (3) Wird der Verurteilte erneut beim Haftantrittstermin nicht angetroffen, kann die Strafe vollständig ohne weiteres Verfahren vollstreckt werden."
+    },
+    {
+      "number": "§ 74",
+      "title": "Neue Straftaten während des Haftaufschubs",
+      "chapter": {
+        "number": "IX.",
+        "title": "Strafvollstreckung"
+      },
+      "text": "(1) Begeht die Person während des Haftaufschubs oder der Bewährungszeit weitere Straftaten, werden diese unabhängig von der bestehenden Strafe geahndet und zu den bestehenden Haftzeiten addiert. (2) Eine Verrechnung oder Zusammenlegung der Strafen findet in diesen Fällen nicht statt."
+    },
+    {
+      "number": "§ 75",
+      "title": "Zweck und Anwendung des Haftaufschubes",
+      "chapter": {
+        "number": "IX.",
+        "title": "Strafvollstreckung"
+      },
+      "text": "(1) Der Haftaufschub dient der Verfahrenssicherung, Nachbearbeitung und Revisionszeit für das Department of Justice (DOJ). (2) Die Zeit bis zum Haftantritt kann vom Betroffenen genutzt werden, um: a) eine Revision oder Berufung einzureichen, b) anwaltliche oder private Angelegenheiten zu klären, c) ein persönliches Übergabeprotokoll vorzubereiten. (3) Wird durch das DOJ Rechtsmittel zugelassen, ruht die Haft bis zur endgültigen Entscheidung."
+    },
+    {
+      "number": "§ 76",
+      "title": "Richterlicher Haftbefehl bei Fahndung wegen Haftvollstreckung",
+      "chapter": {
+        "number": "IX.",
+        "title": "Strafvollstreckung"
+      },
+      "text": "(1) Eine Fahndung zur Festnahme einer Person zum Zweck des Vollzugs einer Freiheitsstrafe oder offener Hafteinheiten ist nur zulässig, wenn ein richterlicher Haftbefehl vorliegt, der durch das Department of Justice erlassen oder bestätigt wurde. (2) Die Aufnahme einer Person in Fahndungslisten setzt die vorherige Ausstellung eines solchen Haftbefehls voraus. (3) Ausgenommen hiervon sind ausschließlich Fälle unmittelbarer Gefahr im Verzug, in denen eine vorläufige Festnahme erforderlich ist; der richterliche Haftbefehl ist unverzüglich nachzuholen. (4) Ohne richterlichen Haftbefehl darf eine Person nicht festgenommen oder verfolgt werden, sofern der Zweck der Maßnahme ausschließlich im Vollzug bereits verhängter Hafteinheiten liegt."
+    },
+    {
+      "number": "§ 77",
+      "title": "Zuständigkeit Staatsgefängnis",
+      "chapter": {
+        "number": "IX.",
+        "title": "Strafvollstreckung"
+      },
+      "text": "Exekutivbehörden verantworten Transport, Aufnahme, Sicherheit und Wohlergehen der Inhaftierten."
+    },
+    {
+      "number": "§ 78",
+      "title": "Zwingendes Gerichtsverfahren bei bestimmten Straftaten; Schnellverfahren",
+      "chapter": {
+        "number": "X.",
+        "title": "Sonstige Regelungen"
+      },
+      "text": "(1) Verfahren, die sich auf die in Art. 8 Abs. 4 sowie Art. 9 Abs. 1 der Verfassung genannten Tatbestände beziehen, ebenso wie auf die Straftatbestände gemäß §§ 15–24 des ATG sowie die §§ 40, 44, 45, 49 und 50 des StGB, sind zwingend vor einem zuständigen Gericht zu verhandeln. (2) Zur Klärung von Rechtsfragen können durch einen Richter Schnellverfahren mit mündlicher Verhandlung angesetzt werden. Für diese Verfahren gelten die übrigen Regelungen zu Hauptverfahren entsprechend."
+    },
+    {
+      "number": "§ 79",
+      "title": "Vorläufige Festnahme durch Jedermann",
+      "chapter": {
+        "number": "X.",
+        "title": "Sonstige Regelungen"
+      },
+      "text": "(1) Jedermann darf bei Ertappung auf frischer Tat und Fluchtverdacht oder ungeklärter Identität vorläufig festnehmen. (2) Bei Antragsdelikten ist dies zulässig, auch wenn ein Antrag noch nicht gestellt wurde. Die Exekutivbehörden sind unverzüglich zu informieren."
+    },
+    {
+      "number": "§ 80",
+      "title": "Missachtung des Gerichts",
+      "chapter": {
+        "number": "X.",
+        "title": "Sonstige Regelungen"
+      },
+      "text": "(1) Wer während eines Strafverfahrens eine vom Gericht erlassene Anordnung vorsätzlich nicht befolgt oder den ordnungsgemäßen Ablauf des Verfahrens beeinträchtigt, kann vom zuständigen Gericht wegen Missachtung des Gerichts mit geeigneten Maßnahmen belegt werden. (2) Missachtung liegt insbesondere vor, wenn eine Person einer gerichtlichen Ladung schuldhaft nicht nachkommt, eine gerichtlich angeordnete Handlung verweigert oder deren Vollzug verhindert, eine gerichtliche Unterlassungsanordnung verletzt, eine Gerichtsverhandlung nachhaltig stört oder sich in einer Weise verhält, die die Autorität des Gerichts beeinträchtigt. (3) Die Art und das Maß der Maßnahmen bestimmt das Gericht nach pflichtgemäßem Ermessen. Dabei berücksichtigt es insbesondere die Bedeutung der missachteten Anordnung, den Grad des Verschuldens sowie die Auswirkungen auf das Verfahren. (4) Vor der Anordnung von Maßnahmen ist der betroffenen Person Gelegenheit zur Äußerung zu geben, es sei denn, die Missachtung erfolgt unmittelbar in der Sitzung und erfordert ein sofortiges Einschreiten des Vorsitzenden. (5) Gegen Entscheidungen nach diesem Paragraphen ist die sofortige Beschwerde zulässig, diese muss von einem unabhängigen Richter geprüft werden."
+    },
+    {
+      "number": "§ 81",
+      "title": "Dienstrechtliche Empfehlungen und Maßnahmen",
+      "chapter": {
+        "number": "X.",
+        "title": "Sonstige Regelungen"
+      },
+      "text": "(1) Die Staatsanwaltschaft ist befugt, im Rahmen eines gerichtlichen oder dienstrechtlich relevanten Verfahrens gegenüber Personen im öffentlichen Dienst Empfehlungen zu dienstrechtlichen Maßnahmen auszusprechen. Diese Empfehlungen können insbesondere umfassen: a) die Entlassung aus dem Staatsdienst, b) die vorübergehende Suspendierung vom Dienst, c) die Degradierung innerhalb der jeweiligen Behörde. (2) Die ausgesprochenen Empfehlungen entfalten keine unmittelbare Rechtswirkung. Die Entscheidung über deren Umsetzung obliegt ausschließlich der zuständigen Beschäftigungsbehörde. (3) Die zuständige Behörde ist verpflichtet, die Empfehlung zu prüfen und unter Berücksichtigung der geltenden dienstrechtlichen Vorschriften eigenständig zu entscheiden und Ihre entscheidung mittels einem Dokument zu dokumentieren und vorzulegen. (4) In Fällen schwerwiegender Rechtsverstöße kann die Staatsanwaltschaft gerichtliche Maßnahmen beantragen. Die Anordnung und Durchsetzung entsprechender Maßnahmen erfolgt ausschließlich durch ein zuständiges Gericht im Rahmen der geltenden gesetzlichen Bestimmungen."
+    }
+  ]
+},
+{
+  "id": "airtraffic",
+  "title": "AVIATION AND AIR TRAFFIC CODE",
+  "category": "Gesetzbuch",
+  "sourceFile": "S.A. STATE GOVERNMENT - Air Traffic Code.html",
+  "sections": [
+    {
+      "number": "§ 1.",
+      "title": "Allgemeine Vorschriften",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Dieses Gesetz regelt den Betrieb, die Nutzung und den Verkehr von Luftfahrzeugen im Staatsgebiet San Andreas, einschließlich der Sicherheit, Zulassung, Haftung und Aufsicht. (2) Ziel dieses Gesetzes ist die Gewährleistung eines sicheren, geordneten und umweltverträglichen Luftverkehrs. (3) Jeder Teilnehmer am Luftverkehr hat sich so zu verhalten, dass kein anderer geschädigt, gefährdet oder mehr als unvermeidbar behindert oder belästigt wird. (4) Die Vorschriften dieses Gesetzes gelten für alle zivilen Luftfahrzeuge sowie für staatliche Luftfahrzeuge, soweit keine Sonderregelung besteht."
+    },
+    {
+      "number": "§ 2.",
+      "title": "Luftfahrzeuge",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Luftfahrzeuge im Sinne dieses Gesetzes sind: Flugzeuge (starre Tragflächen, durch Motorantrieb gesteuert), Helikopter (rotierendes Tragflächensystem, senkrecht start- und landefähig), Drohnen und unbemannte Luftfahrzeuge (UAVs), sofern sie für Transport-, Überwachungs- oder Freizeitflüge genutzt werden. (2) Luftfahrzeuge dürfen nur betrieben werden, wenn sie technisch zugelassen, flugtauglich und registriert sind. (3) Der Betrieb von militärischen oder bewaffneten Luftfahrzeugen ist ausschließlich staatlichen Institutionen und Behörden vorbehalten. (4) Nicht zugelassene oder verbotene Luftfahrzeuge sind militärische oder bewaffnete Luftfahrzeuge sowie sowie Luftfahrzeuge ohne behördliche Zulassung oder Betriebserlaubnis. (5) Der Besitz oder Betrieb solcher Luftfahrzeuge durch Zivilpersonen ist verboten und wird als Straftat behandelt."
+    },
+    {
+      "number": "§ 3.",
+      "title": "Flugplätze",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Öffentlich zugelassene Flugplätze sind: Los Santos International Airport (LSIA), Sandy Shores Airfield, Grapeseed Airfield, Roxwood Airport. (2) Diese dürfen ohne besondere Genehmigung für Start und Landung genutzt werden, sofern keine betrieblichen oder sicherheitsrechtlichen Einschränkungen bestehen und der Flug ordnungsgemäß angemeldet wurde. (3) Flugplätze sind jederzeit in einem sicheren, betriebsfähigen Zustand zu halten. Hindernisse oder Beschädigungen sind unverzüglich der Exekutivbehörde zu melden."
+    },
+    {
+      "number": "§ 4.",
+      "title": "Eingeschränkte Landung und Start",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Das Starten und Landen außerhalb zugelassener Flugplätze bedarf der Zustimmung des Grundstückseigentümers; zusätzlich ist eine schriftliche Genehmigung des Department of Justice erforderlich. (2) Für Landungen in Naturschutzgebieten, Innenstädten oder über bewohnten Zonen gilt ein generelles Verbot, es sei denn, es handelt sich um Einsatzflüge staatlicher Stellen oder um Notfälle."
+    },
+    {
+      "number": "§ 5.",
+      "title": "Regelungen beim Fliegen",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Die Mindestflughöhe beträgt: 1200 Fuß (≈ 360 Meter) über bewohnten Gebieten, 800 Fuß (≈ 240 Meter) über unbewohntem Gebiet. (2) Über Menschenmengen, Einsatzorten oder laufenden Veranstaltungen ist das Überfliegen grundsätzlich untersagt. Flugverbotszonen gehen den allgemeinen Flughöhenregelungen vor."
+    },
+    {
+      "number": "§ 6.",
+      "title": "Flugveranstaltungen",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Flugveranstaltungen, Wettbewerbe oder öffentliche Vorführungen müssen mindestens 48 Stunden vor Beginn beim Department of Justice schriftlich angezeigt werden. Die Durchführung bedarf einer Genehmigung, die erteilt werden kann, sofern keine Gefährdung der öffentlichen Sicherheit oder des Luftverkehrs zu erwarten ist. (2) Die örtlich zuständige Exekutivbehörde ist ebenfalls 48 Stunden vor Beginn zu informieren. (3) Der Veranstalter trägt die volle Verantwortung für die Sicherheit der Teilnehmer, Zuschauer und des Luftraums."
+    },
+    {
+      "number": "§ 7.",
+      "title": "Notlandungen",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Im Falle technischer Defekte, Witterungseinflüsse oder menschlichen Versagens darf von § 4–6 abgewichen werden, wenn dies zur Gefahrenabwehr erforderlich ist. (2) Die örtlichen Behörden müssen vor oder unmittelbar nach der Notlandung informiert werden. (3) Eine Notlandung ist jede ungeplante, sicherheitsbedingte Landung zur Vermeidung einer unmittelbaren Gefahr für Menschen, Luftfahrzeuge oder Eigentum."
+    },
+    {
+      "number": "§ 8.",
+      "title": "Rauschmittel und Flugtauglichkeit",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Piloten dürfen keine Luftfahrzeuge führen, wenn sie unter dem Einfluss von Alkohol, Betäubungsmitteln oder Medikamenten stehen, die ihre Flugtauglichkeit beeinträchtigen. (2) Ein Verstoß gilt als schwerwiegender Eingriff in die Flugsicherheit und kann zum sofortigen Entzug des Flugscheins führen."
+    },
+    {
+      "number": "§ 9.",
+      "title": "Gefährdung des Luftverkehrs",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Wer durch Handlungen oder Unterlassungen den Luftverkehr gefährdet, insbesondere: a) den sicheren Betrieb stört, b) Fluggeräte unbefugt betritt oder manipuliert, c) durch Laser, Drohnen oder andere Geräte Piloten blendet oder behindert, macht sich eines gefährlichen Eingriffs in den Luftverkehr schuldig. (2) Diese Tat wird gemäß den Strafvorschriften des Strafgesetzbuchs geahndet."
+    },
+    {
+      "number": "§ 10.",
+      "title": "Haftung",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Der Pilot trägt die primäre Verantwortung für den sicheren Betrieb, die Wartung und den technischen Zustand des Luftfahrzeugs. (2) Verstößt der Pilot gegen dieses Gesetz oder verursacht durch Fahrlässigkeit einen Unfall, haftet er persönlich für alle daraus entstehenden Schäden, sofern kein Fremdverschulden nachgewiesen wird."
+    },
+    {
+      "number": "§ 11.",
+      "title": "Flugverbot",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Exekutivbehörden können ein temporäres oder dauerhaftes Flugverbot verhängen, wenn: gegen Vorschriften dieses Gesetzes verstoßen wurde, der Pilot als fluguntauglich gilt, Sicherheitsbedenken gegen das Luftfahrzeug bestehen. (2) Während eines Flugverbots darf die betroffene Person kein Luftfahrzeug führen oder betreiben."
+    },
+    {
+      "number": "§ 12.",
+      "title": "Abstellen von Luftfahrzeugen",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Luftfahrzeuge dürfen nur auf zugelassenen Flugplätzen (§ 3) oder genehmigten privaten Flächen im Sinne des § 4 abgestellt werden. (2) Das Abstellen auf öffentlichen Straßen, in Städten, Parks oder nicht genehmigten Flächen ist verboten. (3) Unzulässig abgestellte Luftfahrzeuge können durch autorisierte Abschleppunternehmen oder die Exekutive entfernt oder sichergestellt werden."
+    },
+    {
+      "number": "§ 13.",
+      "title": "Flugverbotszonen",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Folgende Gebiete gelten als Flugverbotszonen im Umkreis von 250 Metern: Bereich um das Department of Justice (Rockford Hills), Bereich um das Los Santos Medical Department (Downtown - Pillbox Hill), Bereich um das Los Santos Fire Department (Vespucci), Bereich um das LSPD-Hauptquartier (Vespucci Canals), Bereich um das Highway Patrol-Gebäude (Route 13 Abschnitt B), Bereich um das Highway Patrol-Gebäude (La Mesa, Popular Street), Bereich um Fort Zancudo, Bereich um das BCSO in Paleto Bay, Bolingbroke State Prison, der Bereich und das Gelände der San Andreas Emergency Academy. (2) Diese dürfen nicht überflogen werden, soweit keine Gefährdung der öffentlichen Sicherheit zu erwarten ist und die Genehmigung entsprechend erteilt wurde. (3) Zuwiderhandlungen werden als gefährlicher Eingriff in den Luftverkehr geahndet."
+    },
+    {
+      "number": "§ 14.",
+      "title": "Aufsicht und Zuständigkeiten",
+      "chapter": {
+        "number": "II.",
+        "title": "Besondere Vorschriften"
+      },
+      "text": "(1) Das Department of Justice ist zuständig für Genehmigungen, Rechtsverordnungen und Berufungsverfahren. (2) Die Exekutivbehörden sind berechtigt, bei Gefahr im Verzug Maßnahmen zur Gefahrenabwehr zu treffen."
+    }
+  ]
+},
+{
+  "id": "media",
+  "title": "MEDIA ACT (MA)",
+  "category": "Gesetzbuch",
+  "sourceFile": "S.A. STATE GOVERNMENT - Media Act.html",
+  "sections": [
+    {
+      "number": "§ 1",
+      "title": "Pressefreiheit",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Die Presse ist frei. Eine Zensur findet nicht statt. (2) Einschränkungen dürfen nur auf Grundlage der Verfassung und der allgemeinen Gesetze erfolgen. (3) Jede rechtswidrige Behinderung oder Einschüchterung der freien Pressearbeit ist unzulässig. (4) Niemand darf wegen einer gesetzmäßigen journalistischen Tätigkeit benachteiligt oder verfolgt werden."
+    },
+    {
+      "number": "§ 2",
+      "title": "Aufgabe der Presse",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Die Presse erfüllt eine öffentliche Aufgabe, indem sie in Angelegenheiten von öffentlichem Interesse: a) Nachrichten beschafft und verbreitet, b) Stellung nimmt, Kritik übt und c) zur freien Meinungsbildung beiträgt. (2) Presseorgane handeln im Bewusstsein ihrer gesellschaftlichen Verantwortung. (3) Missbrauch der Pressefreiheit, insbesondere zu Zwecken der Verleumdung oder strafbarer Inhalte, ist unzulässig."
+    },
+    {
+      "number": "§ 3",
+      "title": "Geltungsbereich",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "Dieses Gesetz gilt für alle periodischen und nichtperiodischen Druckwerke, Online-Publikationen, Rundfunkangebote und audiovisuelle Formate, die in San Andreas produziert oder verbreitet werden."
+    },
+    {
+      "number": "§ 4",
+      "title": "Informationsfreiheit",
+      "chapter": {
+        "number": "II.",
+        "title": "Rechte und Pflichten der Presse"
+      },
+      "text": "(1) Behörden und öffentliche Einrichtungen sollen der Presse auf Antrag Auskünfte erteilen, soweit dies der öffentlichen Aufgabe der Presse dient. (2) Die Auskunft darf nur verweigert werden, wenn: a) Geheimhaltungsvorschriften oder der Schutz personenbezogener Daten entgegenstehen, b) schwebende Ermittlungs- oder Gerichtsverfahren gefährdet würden oder c) der Antrag offensichtlich unverhältnismäßig oder missbräuchlich gestellt ist. (3) Ein generelles Auskunftsverbot gegenüber der Presse ist unzulässig. (4) Behörden sollen Anfragen der Presse zeitnah bearbeiten, soweit öffentliche Interessen nicht beeinträchtigt werden. (5) Pressevertreter können ihre journalistische Tätigkeit durch geeignete Nachweise glaubhaft machen."
+    },
+    {
+      "number": "§ 5",
+      "title": "Impressumspflicht",
+      "chapter": {
+        "number": "II.",
+        "title": "Rechte und Pflichten der Presse"
+      },
+      "text": "(1) Presseerzeugnisse sollen Angaben zum Herausgeber und Verantwortlichen enthalten. (2) Diese Angaben sollen insbesondere enthalten: a) Name oder Firma und Anschrift des Herausgebers, b) Namen des verantwortlichen Redakteurs, c) den sachlichen Zuständigkeitsbereich jedes verantwortlichen Redakteurs. (3) Für Online-Medien sollen diese Angaben leicht zugänglich sein. (4) Der verantwortliche Redakteur trägt die Verantwortung im Rahmen der geltenden Gesetze."
+    },
+    {
+      "number": "§ 6",
+      "title": "Sorgfaltspflicht",
+      "chapter": {
+        "number": "II.",
+        "title": "Rechte und Pflichten der Presse"
+      },
+      "text": "(1) Die Presse hat Nachrichten mit der gebotenen journalistischen Sorgfalt zu prüfen. (2) Berichte und Darstellungen müssen deutlich zwischen Tatsachenbehauptungen, Meinungen und Kommentaren unterscheiden. (3) Veröffentlichungen dürfen keine strafbaren Inhalte enthalten oder unzulässig in Persönlichkeitsrechte eingreifen. (4) Fehlerhafte Veröffentlichungen sind unverzüglich zu korrigieren."
+    },
+    {
+      "number": "§ 7",
+      "title": "Gegendarstellung",
+      "chapter": {
+        "number": "II.",
+        "title": "Rechte und Pflichten der Presse"
+      },
+      "text": "(1) Wird durch eine Veröffentlichung das Persönlichkeitsrecht einer Person verletzt, kann eine Gegendarstellung verlangt werden. (2) Die Gegendarstellung muss unverzüglich, in derselben Ausgabe oder auf derselben Plattform und mit vergleichbarer Hervorhebung veröffentlicht werden. (3) Der Anspruch entfällt, wenn die beanstandete Behauptung nachweislich zutreffend ist oder die Gegendarstellung ihrerseits offensichtlich unwahr ist."
+    },
+    {
+      "number": "§ 8",
+      "title": "Schutz von Informationsquellen",
+      "chapter": {
+        "number": "II.",
+        "title": "Rechte und Pflichten der Presse"
+      },
+      "text": "(1) Pressevertreter dürfen die Identität ihrer Informationsquellen geheim halten. (2) Behörden dürfen Journalistinnen und Journalisten nicht dazu zwingen, ihre Quellen offen zu legen, es sei denn, es liegt eine richterliche Anordnung bei überwiegendem öffentlichen Interesse vor. (3) Durchsuchungen oder Beschlagnahmen in Redaktionsräumen sind nur auf richterliche Anordnung und bei Verdacht auf schwerwiegende Straftaten zulässig."
+    },
+    {
+      "number": "§ 9",
+      "title": "Kennzeichnung entgeltlicher Veröffentlichungen",
+      "chapter": {
+        "number": "II.",
+        "title": "Rechte und Pflichten der Presse"
+      },
+      "text": "(1) Veröffentlichungen, für die ein Entgelt oder sonstiger Vorteil gewährt wird, sind deutlich als „Anzeige“ oder „Werbung“ zu kennzeichnen. (2) Gleiches gilt für Sponsoring, Produktplatzierungen oder bezahlte Beiträge in digitalen Formaten. (3) Verstöße gegen diese Kennzeichnungspflicht gelten als Irreführung der Öffentlichkeit und werden als Ordnungswidrigkeit geahndet."
+    },
+    {
+      "number": "§ 10",
+      "title": "Verantwortlichkeit",
+      "chapter": {
+        "number": "III.",
+        "title": "Verantwortung und Haftung"
+      },
+      "text": "(1) Verantwortlich für den Inhalt einer Veröffentlichung sind der Herausgeber, der verantwortliche Redakteur und der Verfasser. (2) Bei anonymen oder pseudonymen Veröffentlichungen haftet der Herausgeber. (3) Der Eigentümer soll die redaktionelle Unabhängigkeit gewährleisten."
+    },
+    {
+      "number": "§ 11",
+      "title": "Haftung bei Regelverstößen",
+      "chapter": {
+        "number": "III.",
+        "title": "Verantwortung und Haftung"
+      },
+      "text": "(1) Verstöße gegen dieses Gesetz, insbesondere gegen §4, §6, §7 und §9, können mit Geldbußen geahndet werden. (2) Bei vorsätzlicher Veröffentlichung rechtswidriger Inhalte können strafrechtliche Maßnahmen nach dem Strafgesetzbuch erfolgen. (3) Verstöße gegen Impressumspflichten (§ 5) oder Auskunftsverweigerung gegenüber Aufsichtsbehörden können mit einem Bußgeld geahndet werden."
+    },
+    {
+      "number": "§ 12",
+      "title": "Schutz journalistischer Tätigkeit",
+      "chapter": {
+        "number": "IV.",
+        "title": "Verhältnis zu staatlichen Stellen"
+      },
+      "text": "(1) Pressevertreter dürfen bei ihrer Tätigkeit nicht rechtswidrig behindert oder eingeschüchtert werden. (2) Die Exekutive hat bei polizeilichen Maßnahmen auf die Tätigkeit von Pressevertretern Rücksicht zu nehmen. (3) Wird ein Presseausweis missbräuchlich verwendet, kann dieser entzogen werden."
+    },
+    {
+      "number": "§ 13",
+      "title": "Informationszugang und Akkreditierung",
+      "chapter": {
+        "number": "IV.",
+        "title": "Verhältnis zu staatlichen Stellen"
+      },
+      "text": "(1) Pressevertreter haben das Recht auf Zugang zu öffentlichen Sitzungen, Gerichtsverhandlungen und Veranstaltungen, soweit keine Geheimhaltungsgründe entgegenstehen. (2) Akkreditierungen dürfen den Zugang nicht willkürlich einschränken. (3) Die Verweigerung der Akkreditierung ist schriftlich zu begründen und kann beim zuständigen Gericht angefochten werden."
+    },
+    {
+      "number": "§ 14",
+      "title": "Aufsicht",
+      "chapter": {
+        "number": "V.",
+        "title": "Aufsicht und Schlussbestimmungen"
+      },
+      "text": "(1) Die Einhaltung dieses Gesetzes kann durch das Department of Justice überprüft werden. (2) Das DOJ kann bei Verstößen Maßnahmen im Rahmen der geltenden Gesetze anordnen und Bußgelder verhängen. (3) Gegen Entscheidungen des DOJ kann binnen 14 Tagen Beschwerde beim Gericht eingelegt werden."
+    },
+    {
+      "number": "§ 15",
+      "title": "Verhältnis zu anderen Gesetzen",
+      "chapter": {
+        "number": "V.",
+        "title": "Aufsicht und Schlussbestimmungen"
+      },
+      "text": "Soweit dieses Gesetz keine besonderen Vorschriften enthält, gelten die allgemeinen Bestimmungen des Strafgesetzbuchs und der Verfassung des Staates San Andreas."
+    }
+  ]
+},
+{
+  "id": "company",
+  "title": "COMPANY ACT (CA)",
+  "category": "Gesetzbuch",
+  "sourceFile": "S.A. STATE GOVERNMENT - Company Act.html",
+  "sections": [
+    {
+      "number": "§ 1",
+      "title": "Zweck des Gesetzes",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Dieses Gesetz regelt die rechtliche Anerkennung, Entwicklung, Registrierung, Überwachung und Sicherheit von Unternehmen innerhalb des Staates San Andreas. (2) Ziel ist die Förderung wirtschaftlicher Entwicklung, die Gewährleistung von Transparenz, öffentlicher Sicherheit, Brandschutz sowie einer ordnungsgemäßen Unternehmensführung. (3) Das Bureau of Commerce ist die zentrale staatliche Anlaufstelle für alle Angelegenheiten im Zusammenhang mit Unternehmen, Start-Ups und wirtschaftlicher Entwicklung."
+    },
+    {
+      "number": "§ 2",
+      "title": "Begriffsbestimmungen",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Unternehmen im Sinne dieses Gesetzes sind alle natürlichen oder juristischen Personen, die dauerhaft wirtschaftliche Tätigkeiten ausüben. (2) Als Start-Up gilt ein neu gegründetes Unternehmen, welches seine Geschäftstätigkeit aufgenommen hat, jedoch weder über einen genehmigten festen Unternehmensstandort (mit Innenausbau) verfügt noch Mitarbeiter beschäftigt. (3) Als anerkanntes Unternehmen gilt ein Unternehmen, das im Unternehmensregister des Bureau of Commerce eingetragen wurde. (4) Als Unternehmen gelten auch 24/7-Läden."
+    },
+    {
+      "number": "§ 3",
+      "title": "Registrierung von Start-Ups und Unternehmen",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Zur Aufnahme einer wirtschaftlichen Tätigkeit genügt die Registrierung eines Gewerbes beim Los Santos Amt. (2) Mit erfolgreicher Gewerberegistrierung gilt das Unternehmen als Start-Up und darf seine Geschäftstätigkeit unmittelbar aufnehmen. (3) Für Start-Ups besteht keine Verpflichtung zur Eintragung in das Unternehmensregister des Bureau of Commerce. (4) Eine Eintragung in das Unternehmensregister des Bureau of Commerce wird verpflichtend, sobald das Unternehmen: a) einen festen Unternehmensstandort (mit Innenausbau) beantragt, b) Mitarbeiter einstellen möchte oder c) sonstige staatliche Sonderrechte oder Unternehmensprivilegien beantragt. (5) Vor einer Eintragung nach Absatz 4 ist gegenüber dem Bureau of Commerce nachzuweisen, dass ein tatsächliches öffentliches Interesse oder ein entsprechender Andrang der Bevölkerung an den angebotenen Dienstleistungen oder Waren besteht. (6) Das Bureau of Commerce entscheidet nach pflichtgemäßem Ermessen über die Aufnahme in das Unternehmensregister. (7) Änderungen in Eigentumsverhältnissen, Geschäftsführung oder Tätigkeitsbereich sind dem Bureau of Commerce unverzüglich mitzuteilen. (8) In das Unternehmensregister sind für jedes Unternehmen mindestens folgende Angaben einzutragen: a) Unternehmensname b) Branche bzw. Tätigkeitsbereich c) Kontaktangaben (Telefonnummer und E-Mail-Adresse) d) Name des Geschäftsführers oder Inhabers e) Registriernummer f) Postleitzahl des Unternehmenssitzes g) Unternehmensstatus (aktiv oder inaktiv)"
+    },
+    {
+      "number": "§ 4",
+      "title": "Laufende Überwachung und Berichtspflichten",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Ausschließlich im Unternehmensregister eingetragene Unternehmen unterliegen der fortlaufenden staatlichen Aufsicht durch das Bureau of Commerce. (2) Am Anfang jedes Quartals ist ein Tätigkeits- und Sicherheitsbericht beim Bureau of Commerce einzureichen. (3) Der Bericht muss insbesondere Angaben zu Betriebsstandorten, Mitarbeiterzahl, ungefährem Umsatz der letzten drei Monate, geschätztem Umsatz der kommenden drei Monate sowie den Sicherheitsmaßnahmen enthalten. (4) Am Anfang jedes Quartals erstellt das San Andreas Fire Department einen Sicherheitsbericht und stellt diesen dem im Unternehmensregister eingetragenen Inhaber zur Verfügung. (5) Für Start-Ups sowie 24/7-Läden entfällt die Pflicht zur Einreichung eines Tätigkeits- und Sicherheitsberichts."
+    },
+    {
+      "number": "§ 5",
+      "title": "Weitere sicherheitsrelevante Pflichten",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Unternehmen müssen alle sicherheitsrelevanten Maßnahmen einhalten, die dem Schutz von Mitarbeitern, Kunden und der Öffentlichkeit dienen. (2) Im Auftrag des Department of Justice können Exekutivbehörden unangekündigte Kontrollen durchführen. (3) Über durchgeführte Kontrollen ist ein Bericht anzufertigen und dem Auftraggeber beziehungsweise der Leitung des Department of Justice zu übermitteln. (4) Das Bureau of Commerce steht Unternehmen und Start-Ups jederzeit beratend bei Gründung, Entwicklung, Expansion und Registrierung zur Verfügung."
+    },
+    {
+      "number": "§ 6",
+      "title": "Sanktionen",
+      "chapter": {
+        "number": "I.",
+        "title": "Allgemeine Bestimmungen"
+      },
+      "text": "(1) Verstöße gegen dieses Gesetz können mit folgenden Maßnahmen geahndet werden: a) Geldbußen b) Vorübergehende Betriebsschließung c) Entzug der Unternehmensanerkennung (2) Bei schweren oder wiederholten Verstößen kann ein Unternehmen dauerhaft aus dem Unternehmensregister gelöscht werden. (3) Einem Unternehmen kann die Ausübung seiner Tätigkeit ganz oder teilweise durch das Department of Justice untersagt werden, wenn es wiederholt oder systematisch gegen geltendes Recht verstößt. (4) Im Rahmen eines entsprechenden Verfahrens ist das Department of Justice befugt, die Tätigkeit eines Unternehmens vorübergehend oder dauerhaft zu untersagen. (5) Die Löschung aus dem Unternehmensregister berührt nicht die grundsätzliche Möglichkeit, ein neues Start-Up nach § 3 Abs. 1 und 2 zu gründen, sofern keine gerichtliche oder behördliche Untersagung entgegensteht."
+    }
+  ]
+},
+{
+  "id": "homeland",
+  "title": "HOMELAND SECURITY ACT (HSA)",
+  "category": "Gesetzbuch",
+  "sourceFile": "S.A. STATE GOVERNMENT - Homeland Security Act.html",
+  "sections": [
+    {
+      "number": "§ 1.",
+      "title": "Geiselnahme",
+      "chapter": {
+        "number": "I.",
+        "title": "Terroristische Handlungen"
+      },
+      "text": "(1) Wer eine Person gegen ihren Willen festhält und gegenüber Dritten (z.B Staat, Angehörigen, Exekutivbehörden) als Druckmittel für eine Forderung oder Handlungen nutzt und somit eine Freiheitsberaubung begeht, begeht eine Geiselnahme. Diese Handlung stellt eine Straftat dar und wird nach Maßgabe des Strafkatalogs verfolgt und bestraft. (2) Sollten bei einer Geiselnahme mehr als drei Personen von den Geiselnehmern als Geisel genommen werden, kann das maximale Strafmaß um jeweils 20 Hafteinheiten, sowie 20.000$ pro Geisel erhöht werden."
+    },
+    {
+      "number": "§ 2.",
+      "title": "Vernichtung von Staatlichen Akten",
+      "chapter": {
+        "number": "I.",
+        "title": "Terroristische Handlungen"
+      },
+      "text": "(1) Wer staatliche Akten ganz oder teilweise bis zur Unkenntlichkeit vernichtet, beschädigt, entfernt, verfälscht, oder eine andere Person dazu anstiftet, nötigt oder veranlasst, macht sich strafbar und wird gemäß den Bestimmungen des Strafkatalogs des Staates San Andreas bestraft. (2) Als staatliche Akten im Sinne dieses Paragraphen gelten sämtliche Unterlagen, Dokumente oder Datensätze, die von staatlichen Behörden oder öffentlichen Einrichtungen geführt oder verwaltet werden, gemäß §3 ATG. (3) Der Versuch ist strafbar."
+    },
+    {
+      "number": "§ 3.",
+      "title": "Staatliche Akten",
+      "chapter": {
+        "number": "I.",
+        "title": "Terroristische Handlungen"
+      },
+      "text": "(1) Als staatliche Akten gelten sämtliche schriftlichen, elektronischen oder digitalen Unterlagen, die von staatlichen Behörden, Ministerien oder öffentlichen Einrichtungen des Staates San Andreas geführt, erstellt oder verwaltet werden. (2) Staatliche Akten im Sinne dieses Gesetzes umfassen insbesondere behördliche Verwaltungsakten, polizeiliche Einsatz- und Ermittlungsunterlagen, justizielle Dokumente der Gerichte und des Department of Justice, medizinische Unterlagen, die im Rahmen öffentlicher Gesundheitsdienste, insbesondere durch das Los Santos Medical Department, geführt werden. (3) Der Schutz und die Unversehrtheit dieser Akten unterliegen der Aufsicht der jeweiligen Behörde."
+    },
+    {
+      "number": "§ 4.",
+      "title": "Raub von staatlichen Lieferungen",
+      "chapter": {
+        "number": "I.",
+        "title": "Terroristische Handlungen"
+      },
+      "text": "(1) Wer eine staatliche Lieferung, einen Transport staatlicher Güter oder ein öffentliches Versorgungsgut mit Gewalt, durch Drohung oder unter Anwendung von Zwangsmitteln raubt, stiehlt oder dessen Durchführung behindert, macht sich strafbar und wird nach den Bestimmungen des Strafkatalogs des Staates San Andreas bestraft. (2) Gleiches gilt für Personen, die eine solche Tat planen, unterstützen oder begünstigen. (3) Staatliche Lieferungen im Sinne dieses Gesetzes umfassen insbesondere Transporte oder Verteilvorgänge, die durch Behörden, öffentliche Dienststellen oder beauftragte Unternehmen im Auftrag des Staates durchgeführt werden."
+    },
+    {
+      "number": "§ 5.",
+      "title": "Staatliche Lieferungen",
+      "chapter": {
+        "number": "I.",
+        "title": "Terroristische Handlungen"
+      },
+      "text": "(1) Als staatliche Lieferungen gelten sämtliche Versorgungs-, Transport- und Waffenlieferungen, die im Auftrag oder unter Aufsicht staatlicher Stellen erfolgen. (2) Staatliche Lieferungen umfassen insbesondere: Versorgungs- und Waffenlieferungen an Behörden der Exekutive, logistische Lieferungen für die Judikative, medizinische oder technische Versorgungslieferungen für das Los Santos Medical Department (LSMD) sowie das Los Santos Fire Department (LSFD), sonstige Lieferungen, die der Aufrechterhaltung des staatlichen Dienstbetriebs dienen. (3) Die Durchführung und Sicherung staatlicher Lieferungen obliegt den zuständigen Behörden der Exekutive."
+    },
+    {
+      "number": "§ 6.",
+      "title": "Bombenanschlag",
+      "chapter": {
+        "number": "I.",
+        "title": "Terroristische Handlungen"
+      },
+      "text": "(1) Wer einen Anschlag mittels explosiver Stoffe oder Sprengkörper ausführt oder versucht, begeht einen Bombenanschlag. (2) Ein Bombenanschlag liegt insbesondere vor, wenn durch den Einsatz solcher Mittel das Leben, die körperliche Unversehrtheit oder das Eigentum anderer gefährdet oder die öffentliche Sicherheit beeinträchtigt wird. (3) Die Tat sowie der Versuch werden gemäß den im Strafkatalog des Staates San Andreas festgelegten Maßstäben geahndet."
+    },
+    {
+      "number": "§ 7.",
+      "title": "Gefährdung der nationalen Sicherheit",
+      "chapter": {
+        "number": "I.",
+        "title": "Terroristische Handlungen"
+      },
+      "text": "(1) Wer durch Handlungen, Planungen oder Unterstützungshandlungen die nationale Sicherheit des Staates San Andreas gefährdet oder Maßnahmen unternimmt, die geeignet sind, die staatliche Ordnung, die öffentliche Sicherheit oder die verfassungsmäßige Struktur des Staates zu beeinträchtigen, macht sich strafbar, sofern eine konkrete und nachweisbare Gefährdung der öffentlichen Sicherheit oder staatlichen Ordnung vorliegt. (2) Gleiches gilt für Personen oder Organisationen, die: den Staat oder seine Institutionen aktiv oder passiv untergraben, sicherheitsrelevante Informationen unbefugt weitergeben oder veröffentlichen, oder Handlungen vornehmen, die geeignet sind, das Vertrauen in staatliche Organe oder die Integrität der öffentlichen Verwaltung zu gefährden, sofern hierdurch eine konkrete Gefährdung der öffentlichen Sicherheit oder staatlichen Funktionsfähigkeit entsteht."
+    },
+    {
+      "number": "§ 8.",
+      "title": "Zweck",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) Dieser Abschnitt regelt die Einführung, Anwendung und Aufhebung der sogenannten DEFCON-Stufen im Staat San Andreas. (2) Ziel ist es, eine geordnete und abgestufte Reaktion auf sicherheitsrelevante Lagen zu gewährleisten und die öffentliche Ordnung, den Schutz der Bevölkerung sowie die Handlungsfähigkeit des Staates sicherzustellen."
+    },
+    {
+      "number": "§ 9.",
+      "title": "Begriffsbestimmungen",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) DEFCON-Stufe bezeichnet eine festgelegte Alarmstufe, welche die aktuelle Sicherheitslage des Staates beschreibt. (2) Sicherheitslage ist jede Situation, in der eine potenzielle oder akute Gefahr für die öffentliche Sicherheit, die nationale Ordnung oder das Staatsgebiet besteht. (3) Sicherheitsbehörden im Sinne dieses Gesetzes sind das Los Santos Police Department (LSPD), das Blaine County Sheriffs Office (BCSO), die San Andreas Highway Patrol (SAHP) , das Los Santos Medical Department (LSMD), Los Santos Fire Department (LSFD) sowie die National Guard von San Andreas."
+    },
+    {
+      "number": "§ 10.",
+      "title": "Ausrufung und Zuständigkeiten",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) Die Festlegung oder Änderung einer DEFCON-Stufe erfolgt ausschließlich durch eine der folgenden Personen: a) dem Chief Justice, oder b) dem Deputy Chief Justice, oder c) dem Chief of Police, sowie d) dem Sheriff. (2) Die Ausrufung einer DEFCON-Stufe ist unverzüglich öffentlich bekanntzugeben. Dies erfolgt durch staatliche Mitteilungen, Presseerklärungen oder über offizielle Kommunikationskanäle der Regierung. (3) Die Bevölkerung ist verpflichtet, den Anweisungen der zuständigen Behörden während einer DEFCON-Lage Folge zu leisten."
+    },
+    {
+      "number": "§ 11.",
+      "title": "Geltungsdauer und Aufhebung",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) Eine DEFCON-Stufe bleibt in Kraft, bis sie durch dieselbe Instanz, die sie ausgerufen hat, offiziell herabgesetzt oder aufgehoben wird. (2) Bei missbräuchlicher Ausrufung oder unbefugter Bekanntgabe einer DEFCON-Stufe werden disziplinarische Maßnahmen eingeleitet (§ 14 DFG)."
+    },
+    {
+      "number": "§ 12.",
+      "title": "DEFCON-Stufen im Überblick",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "DEFCON 4: Normale Lage - Es besteht keine erkennbare Bedrohung für den Staat oder die Bevölkerung. - Sicherheitskräfte befinden sich im regulären Dienstbetrieb. - Öffentliche Einrichtungen und Verkehrswege arbeiten uneingeschränkt. - Keine besonderen Anweisungen an die Bevölkerung. DEFCON 3: Erhöhte Präsenz - Hinweise auf potenzielle Bedrohungen oder verdächtige Aktivitäten liegen vor. - Sämtliche Behörden erhöhen ihre Präsenz und Kontrolltätigkeiten. - Sicherheitsbereiche, insbesondere Regierungsgebäude, Kraftwerke und Flughäfen, werden verstärkt überwacht. - Öffentliche Versammlungen können eingeschränkt oder untersagt werden, sofern eine konkrete Gefährdung der öffentlichen Sicherheit vorliegt. DEFCON 2: Akute Gefährdungslage - Eine bestätigte Bedrohung für die öffentliche Sicherheit liegt vor, beispielsweise durch Anschläge, Seuchen oder bewaffnete Konflikte. - Staatliche Sicherheitskräfte werden in Vollbereitschaft versetzt. - Militärische Unterstützung innerhalb des Stadtgebiets ist zulässig. - Ausgangsbeschränkungen, Kontrollpunkte und Zugangskontrollen können eingerichtet werden. - Personen- und Fahrzeugdruchsuchungen können bei Vorliegen einer konkreten Gefahrenlage oder auf richterliche Anordnung durchgeführt werden. DEFCON 1: Nationaler Notstand - Der Staat befindet sich in einem akuten Krisen- oder Kriegszustand. - Die Exekutive, National Guard, Medical Department und Fire Department unterstehen einer zentralen Einsatzleitung. - Öffentliche Einrichtungen können geschlossen und der zivile Personenverkehr stark eingeschränkt werden. - Der San Andreas Congress ist berechtigt, den Ausnahmezustand gemäß den nationalen Notstandsbestimmungen auszurufen."
+    },
+    {
+      "number": "§ 13.",
+      "title": "Missbrauch oder Falschausrufung",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) Die unbefugte oder vorsätzlich falsche Ausrufung einer DEFCON-Stufe wird mit einer Geldstrafe von bis zu 1.000.000 $ oder einer Freiheitsstrafe von bis zu 120 Hafteinheiten geahndet. (2) In besonders schweren Fällen kann die verantwortliche Person aus dem öffentlichen Dienst ausgeschlossen werden."
+    },
+    {
+      "number": "§ 14.",
+      "title": "Verstoß gegen DEFCON-Anordnungen",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) Personen, die während einer aktiven DEFCON-Stufe den Anweisungen staatlicher Behörden nicht Folge leisten, handeln ordnungswidrig. (2) Der Verstoß kann mit einer Geldbuße von bis zu 100.000 $ oder einer Freiheitsstrafe von bis zu 40 Hafteinheiten geahndet werden. (3) Bei Gefährdung von Menschenleben kann eine Freiheitsstrafe von bis zu 100 Hafteinheiten verhängt werden."
+    },
+    {
+      "number": "§ 15.",
+      "title": "Sabotage und Behinderung von Sicherheitsmaßnahmen",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) Das vorsätzliche Stören, Behindern oder Unterlaufen staatlicher Sicherheitsmaßnahmen während einer DEFCON-Lage gilt als schwerwiegendes Vergehen. (2) Eine solche Handlung wird mit einer Freiheitsstrafe von bis zu 150 Hafteinheiten bestraft."
+    },
+    {
+      "number": "§ 16.",
+      "title": "Zuständige Ermittlungsbehörden",
+      "chapter": {
+        "number": "II.",
+        "title": "DEFCON - Defense Condition"
+      },
+      "text": "(1) Für die Durchsetzung und Ahndung von Verstößen gegen dieses Gesetz sind die Strafverfolgungsbehörden des Staates San Andreas zuständig. (2) Das Department of Justice koordiniert oder übernimmt Ermittlungen im Rahmen gesetzlicher Zuständigkeiten, sofern dies der Aufklärung oder Wahrung der nationalen Sicherheit dient."
+    },
+    {
+      "number": "§ 17.",
+      "title": "Terroristen Titel",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Der Terroristentitel darf ausschließlich durch einen Richter auf Antrag der zuständigen Sicherheitsbehörden ausgesprochen werden, wenn von der betreffenden Person oder Personengruppe eine erhebliche Gefährdung für den Staat San Andreas ausgeht. Eine erhebliche Gefährdung nach Satz 1 liegt vor, wenn Tatsachen die Schlussfolgerung rechtfertigen, dass die Person oder Personengruppe wiederholt schwere staatsgefährdende Straftaten auf Grundlage konkreter Tatsachen und Beweise begehen wird. (2) Der Titel gilt für eine Dauer von höchstens zwei Wochen und muss anschließend durch richterlichen Beschluss erneuert oder aufgehoben werden. (3) Eine Verlängerung darf nur einmalig erfolgen und erfordert eine erneute richterliche Prüfung. (4) Der Terroristentitel kann entzogen werden, sobald die Gefährdungslage entfällt oder neue Beweise die Bezeichnung als Terrorist nicht mehr rechtfertigen."
+    },
+    {
+      "number": "§ 18.",
+      "title": "Funktion des Terroristen Titels",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Der Terroristentitel kann zu erweiterten sicherheitsrechtlichen Maßnahmen führen, insbesondere: verstärkte Überwachung erleichterte Festnahme unter richterlicher Kontrolle Einschränkung bestimmter Bewegungsrechte (2) Grundrechte, insbesondere das Recht auf ein faires Verfahren, bleiben unberührt."
+    },
+    {
+      "number": "§ 19.",
+      "title": "Fahndung",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Personen oder Organisationen, die den Titel „Terrorist“ erhalten haben, sind national zur Fahndung ausgeschrieben. (2) Die Fahndung erfolgt durch die zuständigen Sicherheitsbehörden des Staates San Andreas. (3) Betroffene Personen dürfen durch Vollzugsbeamte festgenommen und, sofern ein richterlicher Beschluss vorliegt, in Untersuchungshaft überführt werden."
+    },
+    {
+      "number": "§ 20.",
+      "title": "Erweiterte Terrorismusbekämpfung",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Bei Bedarf kann ein zuständiger Richter unter Berücksichtigung der Verhältnismäßigkeit und der bestehenden Gefährdungslage eine erweiterte Stufe des Terroristentitels anordnen. (2) Verstößt eine Person mit Terroristentitel erneut gegen geltende Gesetze, so werden die nach Absatz 3 definierten Strafstufen angewendet. Jede Stufe stellt eine zusätzliche Verschärfung des Strafmaßes dar. (3) Das maximale Strafmaß darf die in Absatz 3 genannten Grenzen nicht überschreiten. Es gelten folgende Stufen: Stufe 1: 75 Hafteinheiten und 120.000 $ Bußgeld Stufe 2: 100 Hafteinheiten und 240.000 $ Bußgeld Stufe 3: 140 Hafteinheiten und 300.000 $ Bußgeld Stufe 4: 190 Hafteinheiten und 410.000 $ Bußgeld (4) Eine höhere Stufe darf nur durch richterlichen Beschluss und unter Begründung der öffentlichen Notwendigkeit ausgesprochen werden. (5) Nach Ablauf der Haftzeit kann der Richter entscheiden, ob eine Sicherungsverwahrung nach Maßgabe der Gefährdungslage angeordnet wird."
+    },
+    {
+      "number": "§ 21.",
+      "title": "Terroristische Organisationen",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Eine terroristische Organisation im Sinne dieses Gesetzes ist eine auf Dauer angelegte Vereinigung von mindestens drei Personen, deren Ziel oder Tätigkeit auf die Begehung terroristischer Straftaten nach Abschnitt I gerichtet ist. (2) Die Mitgliedschaft, Unterstützung oder Werbung für eine terroristische Organisation ist strafbar. (3) Die Strafe richtet sich nach Maßgabe des Strafkatalogs."
+    },
+    {
+      "number": "§ 22.",
+      "title": "Zuständigkeitsverteilung im Krisenfall",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Im Falle einer akuten Bedrohungslage gemäß DEFCON 1 erfolgt durch die zuständigen Exekutivbehörden über alle staatlichen Kräfte. (2) Alle Behörden sind der Einsatzleitung unmittelbar unterstellt. (3) Die National Guard von San Andreas wird nur auf ausdrücklichen Beschluss des Department of Justice eingesetzt."
+    },
+    {
+      "number": "§ 23.",
+      "title": "Kontrolle und Missbrauchsprüfung",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Jede Ausrufung von DEFCON 2 oder höher, sowie jede Ernennung eines Terroristentitels, ist innerhalb von 48 Stunden richterlich zu überprüfen. (2) Wird festgestellt, dass Maßnahmen rechtswidrig oder unverhältnismäßig waren, sind diese sofort aufzuheben und Betroffene zu rehabilitieren. (3) Die Kontrollinstanz ist das zuständige Gericht."
+    },
+    {
+      "number": "§ 24.",
+      "title": "Präventive Maßnahmen",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Bei konkretem Verdacht auf terroristische Aktivitäten dürfen Sicherheitsbehörden personenbezogene Daten erheben, Telekommunikation überwachen und Observationen durchführen. (2) Diese Maßnahmen bedürfen eines richterlichen Beschlusses, außer es liegt unmittelbare Gefahr im Verzug vor. (3) Der Umfang der Überwachung ist nach Wegfall der Gefahr unverzüglich einzuschränken oder zu beenden."
+    },
+    {
+      "number": "§ 25.",
+      "title": "Geheimhaltung und Informationssicherheit",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Informationen, die im Zusammenhang mit terroristischen Ermittlungen stehen, sind nach Geheimhaltungsstufen einzuteilen: a) vertraulich, b) geheim, c) streng geheim. (2) Die unbefugte Weitergabe oder Veröffentlichung solcher Informationen ist strafbar."
+    },
+    {
+      "number": "§ 26.",
+      "title": "Aufhebung von Maßnahmen",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "Beschlagnahmte Gegenstände sind, soweit sie nicht als Beweismittel dienen, an ihre Eigentümer zurückzugeben."
+    },
+    {
+      "number": "§ 27.",
+      "title": "Unterstützungshandlungen",
+      "chapter": {
+        "number": "III.",
+        "title": "Weitere Maßnahmen"
+      },
+      "text": "(1) Wer vorsätzlich einer terroristischen Person oder Organisation finanzielle, logistische oder materielle Unterstützung gewährt, macht sich strafbar. (2) Gleiches gilt für Personen, die solche Handlungen bewusst dulden, fördern oder verschleiern. (3) Die Strafe bemisst sich nach dem Strafkatalog."
+    }
+  ]
+},
+{
+  "id": "justice",
+  "title": "Justice Code (JC)",
+  "category": "Gesetzbuch",
+  "sourceFile": "S.A. STATE GOVERNMENT - Justice Code.html",
+  "sections": [
+    {
+      "number": "§ 1.",
+      "title": "Einrichtung in aktuelles Recht",
+      "chapter": null,
+      "text": "Das Department of Justice wurde als oberste Behörde für Recht und Strafverfolgung in San Andreas gegründet."
+    },
+    {
+      "number": "§ 2.",
+      "title": "Zweck und Mission",
+      "chapter": null,
+      "text": "(1) Das DOJ schützt die Rechtsstaatlichkeit, wahrt die verfassungsmäßigen Rechte der Bürger und stellt die Durchsetzung des Rechts sicher. (2) Das Department of Justice übt die Aufsicht und Kontrolle über die Anwendung dieses Gesetzes aus. (3) Änderungen, Ergänzungen oder Aufhebungen der Gesetze erfolgen ausschließlich nach den verfassungsmäßigen Vorschriften unter Beteiligung des San Andreas Congress. (4) Entsprechende Änderungen treten erst nach Veröffentlichung im Gesetzesregister in Kraft."
+    },
+    {
+      "number": "§ 3.",
+      "title": "Zuständigkeiten",
+      "chapter": null,
+      "text": "(1) Die Zuständigkeit umfasst Straftaten, strafrechtliche und staatliche Angelegenheiten, sowie alle Fälle von nationaler und regionaler Bedeutung im Staate San Andreas. (2) Das Department of Justice erhält die Bestimmungen über Ernennung, Pflichten und Rechte der Bediensteten."
+    },
+    {
+      "number": "§ 4.",
+      "title": "Verhältnismäßigkeit und Schutz der Bürgerrechte",
+      "chapter": null,
+      "text": "(1) Bei der Ausübung seiner Befugnisse hat das Department die Verhältnismäßigkeit zu wahren und die verfassungsrechtlich gewährleisteten Rechte zu schützen. (2) Das Department of Justice achtet die Bürgerrechte und unterliegt besonderen Berichtspflichten bei Maßnahmen mit Eingriffscharakter. (3) Es wird ein San Andreas Congress für allgemeine Sicherheitsbedenken in San Andreas gegründet. Dieser setzt sich aus dem Chief Justice, Deputy Chief Justice als beratendes Gremium ohne Entscheidungsbefugnis, und aus maximal zwei Vertretern aus jeder staatlichen Behörde zusammen. Zudem besetzt der Chief Judge einen Posten im Congress als Vertreter der Richterschaft. Zu den teilnehmenden Behörden zählen: - Los Santos Police Department - Blaine County Sheriffs Office - Los Santos Medical Department - Los Santos Fire Department - Federal Investigation Bureau - San Andreas Highway Patrol Dieser Rat spricht über aktuelle Themen im Zusammenhang mit Gesetzen, dem Schutz der Bürger und deren Rechte."
+    },
+    {
+      "number": "§ 5.",
+      "title": "Delegation und Verfahrenszuständigkeiten",
+      "chapter": null,
+      "text": "Der Chief Justice kann Befugnisse an untergeordnete Beamte delegieren."
+    },
+    {
+      "number": "§ 6.",
+      "title": "Autorität des Chief Justice und Deputy Chief Justice",
+      "chapter": null,
+      "text": "(1) Der Chief Justice und Deputy Chief Justice sind die oberste Leitungsfunktion innerhalb des Department of Justice und befugt, alle Justizmaßnahmen zu überwachen oder einzuleiten. (2) Der Chief Justice und Deputy Chief Justice können Empfehlungen und rechtliche Einschätzungen aussprechen. Eine verbindliche Weisungsbefugnis gegenüber Exekutivbehörden besteht nicht."
+    },
+    {
+      "number": "§ 7.",
+      "title": "Justizielle Autorität",
+      "chapter": {
+        "number": "II.",
+        "title": "Gerichtliche Abteilung"
+      },
+      "text": "(1) Die Rechtsprechung wird durch unabhängige Gerichte ausgeübt. (2) Die in diesem Gesetz genannten Gerichte sind nicht befugt, Verfahren zur Prüfung der Verfassungsmäßigkeit von Regelungen oder Maßnahmen einzuleiten, die sie selbst entworfen, konzipiert oder an deren Entstehung sie maßgeblich beteiligt waren."
+    },
+    {
+      "number": "§ 8.",
+      "title": "Rechtssprechungsbefugnisse",
+      "chapter": {
+        "number": "II.",
+        "title": "Gerichtliche Abteilung"
+      },
+      "text": "(1) Gerichte sind befugt, Entscheidungen zu treffen, Urteile zu fällen und Rechtsmittel zuzulassen. (2) Sie können vorläufige Anordnungen erlassen, um Rechte zu sichern oder Schaden abzuwenden. (3) Die Gerichte handeln unabhängig und nur auf Grundlage von Gesetz und Recht."
+    },
+    {
+      "number": "§ 9.",
+      "title": "Richterliche Kompetenz",
+      "chapter": {
+        "number": "II.",
+        "title": "Gerichtliche Abteilung"
+      },
+      "text": "(1) Richter sind zu jederzeit unabhängig und dürfen nicht in laufende Ermittlungen oder Prozesse eingewiesen werden. (2) Richter entscheiden über Klagen, Anträge und Berufungen innerhalb ihrer Zuständigkeit. (3) Richter dürfen nur in Fällen urteilen, bei denen keine persönliche oder dienstliche Befangenheit besteht. (4) Richter sind verpflichtet, die Verfassung und geltendes Recht zu wahren. (5) Richter können in geeigneten Fällen außergerichtliche Einigungen anregen oder moderieren, sofern beide Parteien zustimmen und dadurch Verfahrensrechte nicht eingeschränkt werden."
+    },
+    {
+      "number": "§ 10.",
+      "title": "Veröffentlichung von Entscheidungen",
+      "chapter": {
+        "number": "II.",
+        "title": "Gerichtliche Abteilung"
+      },
+      "text": "(1) Urteile und Beschlüsse der Gerichte sind schriftlich niederzulegen. (2) Grundsatzentscheidungen sind zu veröffentlichen, soweit dies nicht die Sicherheit des Staats oder Schutzrechte Dritter gefährdet. (3) Veröffentlichungen erfolgen in einer offiziellen Gerichtsakte oder auf der Website des Department of Justice."
+    },
+    {
+      "number": "§ 11.",
+      "title": "Berufung",
+      "chapter": {
+        "number": "II.",
+        "title": "Gerichtliche Abteilung"
+      },
+      "text": "(1) Gegen Entscheidungen der Hauptverhandlung kann innerhalb von 14 Tagen nach der Entscheidung Berufung eingelegt werden. (2) Ein anderer Richter überprüft sowohl Rechtsanwendung als auch Verfahrensfehler."
+    },
+    {
+      "number": "§ 12.",
+      "title": "Zuständigkeit der Staatsanwälte",
+      "chapter": {
+        "number": "III.",
+        "title": "Aufgaben und Befugnisse der Staatsanwälte"
+      },
+      "text": "(1) Die Staatsanwälte sind befugt, im Namen des Department of Justice strafrechtliche Verfahren einzuleiten und zu führen. (2) Sie vertreten die Interessen des Staates San Andreas in allen strafrechtlichen Verfahren vor erstinstanzlichen Gerichten und Berufungsgerichten. (3) Sie sind berechtigt, im Rahmen ihrer Zuständigkeit Ermittlungen zu veranlassen und Strafanzeigen einzureichen."
+    },
+    {
+      "number": "§ 13.",
+      "title": "Verfahrensführung",
+      "chapter": {
+        "number": "III.",
+        "title": "Aufgaben und Befugnisse der Staatsanwälte"
+      },
+      "text": "(1) Staatsanwälte entscheiden über die Erhebung von Anklagen. (2) Sie haben die Pflicht, die Ermittlungsbehörden bei der Aufklärung von Straftaten zu unterstützen und auf rechtmäßige Durchführung der Ermittlungen zu achten. (3) Staatsanwälte wirken an der Erstellung von Gutachten zu rechtlichen Fragen mit, soweit dies zur Durchsetzung des Strafrechts erforderlich ist."
+    },
+    {
+      "number": "§ 14.",
+      "title": "Verpflichtungen und Aufgaben",
+      "chapter": {
+        "number": "III.",
+        "title": "Aufgaben und Befugnisse der Staatsanwälte"
+      },
+      "text": "(1) Staatsanwälte haben unparteiisch und nach Recht und Gesetz zu handeln. Die Staatsanwaltschaft hat sowohl belastende als auch entlastende Umstände mit gleicher Sorgfalt zu ermitteln und in das Verfahren einzubringen. (2) Sie haben dafür Sorge zu tragen, dass die Rechte der Beschuldigten, Opfer und Zeugen gewahrt bleiben."
+    },
+    {
+      "number": "§ 15.",
+      "title": "Notarielle Befugnisse der Richter",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "Richter können in zivilrechtlich bedeutsamen Fällen Beglaubigungen vornehmen, sofern dies nicht im Widerspruch zu ihrer Rolle im Strafverfahren steht und soweit gesetzlich vorgesehen."
+    },
+    {
+      "number": "§ 16.",
+      "title": "Begriffsbestimmungen",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) DOJ bezeichnet das Department of Justice des Staates San Andreas. (2) Gericht umfasst alle unabhängigen staatlichen Instanzen. (3) Richter sind Personen, die nach Ernennung durch den Chief Justice oder Deputy Chief Justice zur Ausübung richterlicher Gewalt befugt sind. (4) Staatsanwälte sind Bedienstete des DOJ, die zur Vertretung der Anklage im Namen des Staates berufen sind. (5) Beamte im Sinne dieses Gesetzes sind alle Personen, die in einem Dienstverhältnis mit dem Department of Justice stehen."
+    },
+    {
+      "number": "§ 17.",
+      "title": "Ernennung, Amtszeit und Entlassung",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Richter werden vom Chief Justice ernannt und durch Aushändigung der Ernennungsurkunde in ihr Amt eingeführt. (2) Die Amtszeit beträgt drei Monate und kann durch erneute Berufung verlängert werden. (3) Eine Entlassung aus dem Amt ist nur bei grober Pflichtverletzung, Dienstvergehen oder Verlust der Amtsfähigkeit zulässig. (4) Über die Entlassung entscheidet der Chief Justice im Austausch mit dem Deputy Chief Justice."
+    },
+    {
+      "number": "§ 18.",
+      "title": "Unabhängigkeit der Justiz",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Richter sind in ihrer Entscheidungsfindung unabhängig und nur dem Gesetz unterworfen. (2) Weisungen in Einzelfällen sind unzulässig. (3) Jede Beeinflussung richterlicher Tätigkeit durch Exekutive oder Legislative ist verboten."
+    },
+    {
+      "number": "§ 19.",
+      "title": "Befangenheit und Interessenkonflikt",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Besteht bei einem Richter, Staatsanwalt oder Beamten ein persönliches oder dienstliches Interesse am Ausgang eines Verfahrens, so hat er dies unverzüglich offenzulegen. (2) In diesem Fall wird ein Vertreter durch die zuständige Stelle bestimmt. (3) Gleiches gilt, wenn der Chief Justice selbst betroffen ist - in diesem Fall übernimmt der Deputy Chief Justice die Leitung. (4) Ein Staatsanwalt kann wegen Besorgnis der Befangenheit von einem Verfahren ausgeschlossen werden, wenn objektive Gründe die Neutralität infrage stellen."
+    },
+    {
+      "number": "§ 20.",
+      "title": "Datenschutz und Geheimhaltung",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Gerichtsakten, Ermittlungsunterlagen und Verfahrensdokumente dürfen nur von autorisierten Personen eingesehen werden. (2) Eine Weitergabe an Dritte ist nur mit Genehmigung durch die zuständige Stelle oder gerichtliche Anordnung möglich. (3) Verstöße gegen die Geheimhaltungspflicht werden mit Disziplinarmaßnahmen oder strafrechtlichen Folgen geahndet."
+    },
+    {
+      "number": "§ 21.",
+      "title": "Disziplinarordnung",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Beamte, Richter oder Staatsanwälte, die ihre Dienstpflichten verletzen, können disziplinarisch belangt werden. (2) Disziplinarmaßnahmen sind insbesondere: a) schriftlicher Verweis, b) Amtsenthebung, c) Geldbuße bis zu 200.000 $, d) Suspendierung bis zu 2 Monate. (3) Über die Maßnahme entscheidet der Chief Justice nach Anhörung des Betroffenen."
+    },
+    {
+      "number": "§ 22.",
+      "title": "Berufseid und Verpflichtung",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Vor Amtsantritt haben Richter und Staatsanwälte einen Eid zu leisten. (2) Der Eid ist in einer schriftlichen Niederschrift festzuhalten und in der Personalakte zu archivieren."
+    },
+    {
+      "number": "§ 23.",
+      "title": "Bürgerbeschwerden und Kontrollen",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Jeder Bürger hat das Recht, beim Department of Justice schriftlich Beschwerde über das Verhalten eines Justizbediensteten einzulegen. (2) Beschwerden sind in angemessener Frist, in der Regel innerhalb von 14 Tagen zu prüfen. (3) Das Ergebnis ist dem Beschwerdeführer schriftlich mitzuteilen. (4) Bei Verdacht auf Pflichtverletzung ist unverzüglich ein Disziplinarverfahren einzuleiten."
+    },
+    {
+      "number": "§ 24.",
+      "title": "Aufsicht über das Department of Justice",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Die Aufsicht und Kontrolle erfolgt gemäß Artikel 28 der Verfassung durch den San Andreas Congress. (2) Die Mitglieder sind unabhängig in ihrer Tätigkeit und ausschließlich dem Gesetz verpflichtet. (3) Entscheidungen des San Andreas Congress werden mit einfacher Mehrheit getroffen. (4) Der San Andreas Congress ist befugt, sämtliche abgeschlossenen Verfahren sowie Maßnahmen des Department of Justice auf Rechtsfehler, Verhältnismäßigkeit und möglichen Missbrauch zu prüfen. (5) Die Ergebnisse der Prüfung sind in einem Bericht zu dokumentieren und der Regierung vorzulegen."
+    },
+    {
+      "number": "§ 25.",
+      "title": "Sicherheitsfreigaben",
+      "chapter": {
+        "number": "IV.",
+        "title": "Allgemeines"
+      },
+      "text": "(1) Mitarbeiter des Staates in herausgehobenen oder leitenden Funktionen dürfen eine Sicherheitsfreigabe für den Zugang zu sicherheitsempfindlichen Informationssystemen nur erhalten, wenn diese durch die zu freigebende Behörde bestätigt wurde. (2) Abweichend von Absatz 1 können Personen, die in ein Programm zum Schutz von Zeugen aufgenommen wurden, eine entsprechende Sicherheitsfreigabe erhalten, sofern diese im Einzelfall durch das zuständige Gericht genehmigt wurde. (3) Sicherheitsfreigaben, die ohne die erforderliche Bestätigung nach den Absätzen 1 bis 2 erteilt wurden, sind unwirksam."
+    }
+  ]
+}
 ];
 
 const normalize = (value = "") => value
@@ -2007,52 +3522,13 @@ function getAllSections() {
 }
 
 function searchLaws(query, lawId = "all") {
-  const raw = String(query ?? "").trim();
-  const q = normalize(raw);
+  const q = normalize(query.trim());
   const source = lawId === "all" ? laws : laws.filter(law => law.id === lawId);
-
-  if (!q) {
-    return source.flatMap(law => law.sections.map(section => ({ law, section, score: 0 })));
-  }
-
-  // Paragraph/article queries are normalized so that all of these work:
-  // "63", "§ 63", "§63", "artikel 18", "Art. 18".
-  const numberMatch = q.match(/(?:§|artikel|art\.?|paragraph|par\.?|nr\.?\s*)?\s*(\d+[a-z]?)/i);
-  const wantedNumber = numberMatch?.[1] || null;
-
-  const results = [];
-
-  source.forEach(law => {
-    law.sections.forEach(section => {
-      const number = normalize(section.number);
-      const title = normalize(section.title || "");
-      const chapter = normalize(section.chapter?.title || "");
-      const text = normalize(section.text || "");
-      const lawTitle = normalize(law.title);
-      const category = normalize(law.category || "");
-      const searchable = [lawTitle, category, number, title, chapter, text].join(" ");
-
-      let score = 0;
-
-      if (wantedNumber) {
-        const sectionDigits = number.match(/\d+[a-z]?/)?.[0];
-        if (sectionDigits === wantedNumber) score += 100;
-      }
-
-      if (number === q) score += 80;
-      if (title === q) score += 70;
-      if (title.includes(q)) score += 45;
-      if (chapter.includes(q)) score += 25;
-      if (lawTitle.includes(q) || category.includes(q)) score += 20;
-      if (text.includes(q)) score += 10;
-
-      if (score > 0 || searchable.includes(q)) {
-        results.push({ law, section, score });
-      }
-    });
-  });
-
-  return results.sort((a, b) => b.score - a.score);
+  if (!q) return source.flatMap(law => law.sections.map(section => ({ law, section })));
+  return source.flatMap(law => law.sections
+    .filter(section => normalize([law.title, law.category, section.number, section.title, section.text].join(" ")).includes(q))
+    .map(section => ({ law, section }))
+  );
 }
 
 function findLaw(id) { return laws.find(law => law.id === id) || null; }
@@ -2087,8 +3563,6 @@ document.addEventListener("DOMContentLoaded", () => {
         lawCategory: $("lawCategory"),
         lawTitle: $("lawTitle"),
         lawDescription: $("lawDescription"),
-        localSearch: $("lawLocalSearch"),
-        localCount: $("lawLocalCount"),
         lawSections: $("lawSections"),
         breadcrumbLaw: $("breadcrumbLaw"),
         backToOverview: $("backToOverview"),
@@ -2100,10 +3574,6 @@ document.addEventListener("DOMContentLoaded", () => {
         sectionText: $("sectionText"),
         sectionBreadcrumb: $("sectionBreadcrumb"),
         backToLaw: $("backToLaw"),
-        previousSection: $("previousSection"),
-        previousSectionLabel: $("previousSectionLabel"),
-        nextSection: $("nextSection"),
-        nextSectionLabel: $("nextSectionLabel"),
 
         mobileMenu: $("mobileMenu"),
         sidebar: $("sidebar")
@@ -2222,77 +3692,43 @@ document.addEventListener("DOMContentLoaded", () => {
         elements.lawCount.textContent = `${total} Einträge`;
     }
 
-    function renderLaw(law, query = "") {
+    function renderLaw(law) {
         if (!law || !elements.lawSections) return;
 
         currentLawId = law.id;
+
         elements.lawCategory.textContent = law.category || "S.A. STATE GOVERNMENT";
         elements.lawTitle.textContent = law.title;
         elements.breadcrumbLaw.textContent = law.title;
 
         const chapterNames = [...new Set(
-            law.sections.map(section => section.chapter?.title).filter(Boolean)
+            law.sections
+                .map(section => section.chapter?.title)
+                .filter(Boolean)
         )];
 
         elements.lawDescription.textContent = chapterNames.length
             ? chapterNames.join(" · ")
             : `${law.sections.length} Einträge im Gesetzbuch`;
 
-        const results = query.trim()
-            ? searchLaws(query, law.id)
-            : law.sections.map(section => ({ law, section, score: 0 }));
-
-        if (elements.localCount) {
-            elements.localCount.textContent = query.trim()
-                ? `${results.length} ${results.length === 1 ? "Treffer" : "Treffer"}`
-                : `${law.sections.length} Einträge`;
-        }
-
-        if (!results.length) {
-            elements.lawSections.innerHTML = `
-                <div class="no-results law-no-results">
-                    Keine passenden Gesetzesstellen in diesem Gesetzbuch gefunden.
-                </div>
-            `;
-            return;
-        }
-
-        let previousChapter = null;
-        const markup = [];
-
-        results.forEach(result => {
-            const section = result.section;
-            const index = law.sections.indexOf(section);
+        elements.lawSections.innerHTML = law.sections.map((section, index) => {
             const title = section.title?.trim()
                 || section.chapter?.title
                 || "Gesetzesbestimmung";
 
-            const chapterKey = section.chapter
-                ? `${section.chapter.number || ""}|${section.chapter.title || ""}`
-                : "";
-
-            if (!query.trim() && chapterKey && chapterKey !== previousChapter) {
-                markup.push(`
-                    <div class="law-chapter-heading">
-                        <span>${escapeHtml(section.chapter.number || "")}</span>
-                        <strong>${escapeHtml(section.chapter.title || "")}</strong>
-                    </div>
-                `);
-                previousChapter = chapterKey;
-            }
-
-            markup.push(`
+            return `
                 <article class="law-section">
-                    <button type="button" data-section-index="${index}">
+                    <button
+                        type="button"
+                        data-section-index="${index}"
+                    >
                         <span class="section-number-small">${escapeHtml(section.number)}</span>
                         <span class="section-title-small">${escapeHtml(title)}</span>
                         <span class="section-arrow">›</span>
                     </button>
                 </article>
-            `);
-        });
-
-        elements.lawSections.innerHTML = markup.join("");
+            `;
+        }).join("");
 
         elements.lawSections.querySelectorAll("[data-section-index]").forEach(button => {
             button.addEventListener("click", () => {
@@ -2348,29 +3784,6 @@ document.addEventListener("DOMContentLoaded", () => {
         elements.sectionBreadcrumb.textContent = section.number;
         elements.sectionText.innerHTML = textToHtml(section.text);
 
-        const previous = law.sections[sectionIndex - 1];
-        const next = law.sections[sectionIndex + 1];
-
-        if (elements.previousSection) {
-            elements.previousSection.disabled = !previous;
-            elements.previousSectionLabel.textContent = previous
-                ? previous.number
-                : "—";
-            elements.previousSection.onclick = previous
-                ? () => showSection(law.id, sectionIndex - 1)
-                : null;
-        }
-
-        if (elements.nextSection) {
-            elements.nextSection.disabled = !next;
-            elements.nextSectionLabel.textContent = next
-                ? next.number
-                : "—";
-            elements.nextSection.onclick = next
-                ? () => showSection(law.id, sectionIndex + 1)
-                : null;
-        }
-
         showOnly("section");
         renderNavigation(law.id);
 
@@ -2419,8 +3832,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return `
                 <article class="search-result" data-result-index="${index}">
                     <div class="search-result-law">
-                        <span>${escapeHtml(result.law.category || "S.A. STATE GOVERNMENT")}</span>
-                        <strong>${escapeHtml(result.law.title)}</strong>
+                        ${escapeHtml(result.law.title)}
                     </div>
 
                     <h3>
@@ -2429,8 +3841,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     </h3>
 
                     <p>${escapeHtml(preview)}</p>
-
-                    <span class="search-result-action">Gesetzesstelle öffnen&nbsp; ›</span>
                 </article>
             `;
         }).join("");
@@ -2458,13 +3868,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Search while typing.
     elements.search?.addEventListener("input", runSearch);
-
-    // Search inside the currently opened law book.
-    elements.localSearch?.addEventListener("input", () => {
-        if (!currentLawId) return;
-        const law = findLaw(currentLawId);
-        if (law) renderLaw(law, elements.localSearch.value);
-    });
 
     // Clear search.
     elements.clearSearch?.addEventListener("click", showOverview);
