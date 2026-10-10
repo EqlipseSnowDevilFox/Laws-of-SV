@@ -64,7 +64,7 @@
 
 
 
-\* {
+* {
 
     box-sizing: border-box;
 
@@ -2080,7 +2080,7 @@ input {
 
 .law-navigation a,
 
-.results-list > \*,
+.results-list > *,
 
 .section-card,
 
@@ -2114,7 +2114,7 @@ input {
 
 
 
-.results-list > \*:hover {
+.results-list > *:hover {
 
     border-color: rgba(155,184,219,.55);
 
