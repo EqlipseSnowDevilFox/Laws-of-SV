@@ -3784,6 +3784,31 @@ document.addEventListener("DOMContentLoaded", () => {
         elements.sectionBreadcrumb.textContent = section.number;
         elements.sectionText.innerHTML = textToHtml(section.text);
 
+        // Previous/next section navigation (kept inside the existing section card).
+        let sectionPager = document.getElementById("sectionPager");
+        if (!sectionPager) {
+            sectionPager = document.createElement("div");
+            sectionPager.id = "sectionPager";
+            sectionPager.style.cssText = "display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:24px;padding-top:16px;border-top:1px solid var(--border-color, #333);";
+            elements.sectionText.insertAdjacentElement("afterend", sectionPager);
+        }
+        sectionPager.innerHTML = "";
+        const previousButton = document.createElement("button");
+        previousButton.type = "button";
+        previousButton.textContent = "← Vorherige Seite";
+        previousButton.disabled = sectionIndex <= 0;
+        previousButton.style.cssText = "padding:10px 14px;border-radius:8px;cursor:pointer;";
+        previousButton.addEventListener("click", () => showSection(law.id, sectionIndex - 1));
+
+        const nextButton = document.createElement("button");
+        nextButton.type = "button";
+        nextButton.textContent = "Nächste Seite →";
+        nextButton.disabled = sectionIndex >= law.sections.length - 1;
+        nextButton.style.cssText = "padding:10px 14px;border-radius:8px;cursor:pointer;";
+        nextButton.addEventListener("click", () => showSection(law.id, sectionIndex + 1));
+
+        sectionPager.append(previousButton, nextButton);
+
         showOnly("section");
         renderNavigation(law.id);
 
