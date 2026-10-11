@@ -3564,6 +3564,8 @@ document.addEventListener("DOMContentLoaded", () => {
         lawTitle: $("lawTitle"),
         lawDescription: $("lawDescription"),
         lawSections: $("lawSections"),
+        lawLocalSearch: $("lawLocalSearch"),
+        lawLocalCount: $("lawLocalCount"),
         breadcrumbLaw: $("breadcrumbLaw"),
         backToOverview: $("backToOverview"),
 
@@ -3580,6 +3582,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     let currentLawId = null;
+    let currentLawQuery = "";
 
     const escapeHtml = (value = "") => String(value)
         .replace(/&/g, "&amp;")
@@ -3696,6 +3699,8 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!law || !elements.lawSections) return;
 
         currentLawId = law.id;
+        currentLawQuery = "";
+        if (elements.lawLocalSearch) elements.lawLocalSearch.value = "";
 
         elements.lawCategory.textContent = law.category || "S.A. STATE GOVERNMENT";
         elements.lawTitle.textContent = law.title;
@@ -3711,17 +3716,44 @@ document.addEventListener("DOMContentLoaded", () => {
             ? chapterNames.join(" · ")
             : `${law.sections.length} Einträge im Gesetzbuch`;
 
-        elements.lawSections.innerHTML = law.sections.map((section, index) => {
+        renderLawSections(law);
+    }
+
+    function renderLawSections(law) {
+        if (!law || !elements.lawSections) return;
+        const query = normalize(currentLawQuery);
+        const filtered = law.sections
+            .map((section, index) => ({ section, index }))
+            .filter(({ section }) => {
+                if (!query) return true;
+                const title = section.title || "";
+                const chapter = section.chapter?.title || "";
+                return normalize([
+                    section.number, title, chapter, section.text || ""
+                ].join(" ")).includes(query);
+            });
+
+        if (elements.lawLocalCount) {
+            elements.lawLocalCount.textContent = query
+                ? `${filtered.length} / ${law.sections.length} Treffer`
+                : `${law.sections.length} Einträge`;
+        }
+
+        if (!filtered.length) {
+            elements.lawSections.innerHTML = `
+                <div class="no-results">Keine passenden Gesetzesstellen in diesem Gesetzbuch gefunden.</div>
+            `;
+            return;
+        }
+
+        elements.lawSections.innerHTML = filtered.map(({ section, index }) => {
             const title = section.title?.trim()
                 || section.chapter?.title
                 || "Gesetzesbestimmung";
 
             return `
                 <article class="law-section">
-                    <button
-                        type="button"
-                        data-section-index="${index}"
-                    >
+                    <button type="button" data-section-index="${index}">
                         <span class="section-number-small">${escapeHtml(section.number)}</span>
                         <span class="section-title-small">${escapeHtml(title)}</span>
                         <span class="section-arrow">›</span>
@@ -3899,6 +3931,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
         renderSearch(query);
     }
+
+    // Search only inside the currently selected law book.
+    elements.lawLocalSearch?.addEventListener("input", () => {
+        currentLawQuery = elements.lawLocalSearch.value.trim();
+        const law = findLaw(currentLawId);
+        if (law) renderLawSections(law);
+    });
 
     // Search while typing.
     elements.search?.addEventListener("input", runSearch);
