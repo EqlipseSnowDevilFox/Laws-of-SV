@@ -2714,9 +2714,25 @@ input {
 
 .section-navigation button:disabled {
 
-    opacity: .38;
+    opacity: .72;
 
     cursor: default;
+
+    background: #0b1017;
+
+    border-color: #1d2a3a;
+
+}
+
+.section-navigation button:disabled small {
+
+    color: #71839b;
+
+}
+
+.section-navigation button:disabled strong {
+
+    color: #91a7c2;
 
 }
 
@@ -2949,3 +2965,18 @@ input {
 .section-navigation small { display: block; color: var(--text-muted); font-size: 9px; font-weight: 750; letter-spacing: .08em; text-transform: uppercase; }
 .section-navigation strong { display: block; margin-top: 2px; color: var(--blue); font-size: 11px; font-weight: 650; overflow-wrap: anywhere; }
 @media (max-width: 760px) { .section-navigation { grid-template-columns: 1fr; } .section-navigation button:last-child { justify-content: flex-start; text-align: left; } }
+
+
+/* Single paragraph navigation: dark archive-card appearance */
+.section-navigation button {
+    appearance: none;
+    -webkit-appearance: none;
+    background: var(--panel);
+    color: var(--text);
+    font: inherit;
+}
+
+.section-navigation button:focus-visible {
+    outline: 1px solid var(--gold);
+    outline-offset: 2px;
+}
