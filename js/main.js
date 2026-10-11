@@ -3765,6 +3765,51 @@ document.addEventListener("DOMContentLoaded", () => {
         window.scrollTo({ top: 0, behavior: "smooth" });
     }
 
+    function renderSectionNavigation(law, sectionIndex) {
+        const sectionText = elements.sectionText;
+        if (!sectionText || !sectionText.parentElement) return;
+
+        let nav = document.getElementById("sectionNavigation");
+        if (!nav) {
+            nav = document.createElement("nav");
+            nav.id = "sectionNavigation";
+            nav.className = "section-navigation";
+            nav.setAttribute("aria-label", "Gesetzesstellen-Navigation");
+            sectionText.insertAdjacentElement("afterend", nav);
+        }
+
+        const previous = law.sections[sectionIndex - 1];
+        const next = law.sections[sectionIndex + 1];
+        const label = item => {
+            const title = item?.title?.trim() || item?.chapter?.title || "Gesetzesbestimmung";
+            return `${item.number} · ${title}`;
+        };
+
+        nav.innerHTML = `
+            <button type="button" data-section-direction="previous" ${previous ? "" : "disabled"}>
+                <span aria-hidden="true">‹</span>
+                <span class="section-navigation-copy">
+                    <small>Vorheriger Eintrag</small>
+                    <strong>${previous ? escapeHtml(label(previous)) : "—"}</strong>
+                </span>
+            </button>
+            <button type="button" data-section-direction="next" ${next ? "" : "disabled"}>
+                <span class="section-navigation-copy">
+                    <small>Nächster Eintrag</small>
+                    <strong>${next ? escapeHtml(label(next)) : "—"}</strong>
+                </span>
+                <span aria-hidden="true">›</span>
+            </button>
+        `;
+
+        nav.querySelector('[data-section-direction="previous"]')?.addEventListener("click", () => {
+            if (previous) showSection(law.id, sectionIndex - 1);
+        });
+        nav.querySelector('[data-section-direction="next"]')?.addEventListener("click", () => {
+            if (next) showSection(law.id, sectionIndex + 1);
+        });
+    }
+
     function showSection(lawId, sectionIndex) {
         const law = findLaw(lawId);
         if (!law) return;
@@ -3783,31 +3828,7 @@ document.addEventListener("DOMContentLoaded", () => {
         elements.sectionTitle.textContent = title;
         elements.sectionBreadcrumb.textContent = section.number;
         elements.sectionText.innerHTML = textToHtml(section.text);
-
-        // Previous/next section navigation (kept inside the existing section card).
-        let sectionPager = document.getElementById("sectionPager");
-        if (!sectionPager) {
-            sectionPager = document.createElement("div");
-            sectionPager.id = "sectionPager";
-            sectionPager.style.cssText = "display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:24px;padding-top:16px;border-top:1px solid var(--border-color, #333);";
-            elements.sectionText.insertAdjacentElement("afterend", sectionPager);
-        }
-        sectionPager.innerHTML = "";
-        const previousButton = document.createElement("button");
-        previousButton.type = "button";
-        previousButton.textContent = "← Vorherige Seite";
-        previousButton.disabled = sectionIndex <= 0;
-        previousButton.style.cssText = "padding:10px 14px;border-radius:8px;cursor:pointer;";
-        previousButton.addEventListener("click", () => showSection(law.id, sectionIndex - 1));
-
-        const nextButton = document.createElement("button");
-        nextButton.type = "button";
-        nextButton.textContent = "Nächste Seite →";
-        nextButton.disabled = sectionIndex >= law.sections.length - 1;
-        nextButton.style.cssText = "padding:10px 14px;border-radius:8px;cursor:pointer;";
-        nextButton.addEventListener("click", () => showSection(law.id, sectionIndex + 1));
-
-        sectionPager.append(previousButton, nextButton);
+        renderSectionNavigation(law, sectionIndex);
 
         showOnly("section");
         renderNavigation(law.id);
