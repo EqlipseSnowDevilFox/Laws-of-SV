@@ -3706,16 +3706,7 @@ document.addEventListener("DOMContentLoaded", () => {
         elements.lawTitle.textContent = law.title;
         elements.breadcrumbLaw.textContent = law.title;
 
-        const chapterNames = [...new Set(
-            law.sections
-                .map(section => section.chapter?.title)
-                .filter(Boolean)
-        )];
-
-        elements.lawDescription.textContent = chapterNames.length
-            ? chapterNames.join(" · ")
-            : `${law.sections.length} Einträge im Gesetzbuch`;
-
+        elements.lawDescription.textContent = `${law.sections.length} Einträge im Gesetzbuch`;
         renderLawSections(law);
     }
 
@@ -3746,12 +3737,17 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
 
-        elements.lawSections.innerHTML = filtered.map(({ section, index }) => {
-            const title = section.title?.trim()
-                || section.chapter?.title
-                || "Gesetzesbestimmung";
-
-            return `
+        // Keep the original section order and restore visible chapter headings.
+        let previousChapter = null;
+        const html = [];
+        filtered.forEach(({ section, index }) => {
+            const chapter = (section.chapter?.title || "").trim();
+            if (chapter && chapter !== previousChapter) {
+                html.push(`<div class="law-chapter-heading"><span>KAPITEL</span><strong>${escapeHtml(chapter)}</strong></div>`);
+                previousChapter = chapter;
+            }
+            const title = section.title?.trim() || chapter || "Gesetzesbestimmung";
+            html.push(`
                 <article class="law-section">
                     <button type="button" data-section-index="${index}">
                         <span class="section-number-small">${escapeHtml(section.number)}</span>
@@ -3759,8 +3755,9 @@ document.addEventListener("DOMContentLoaded", () => {
                         <span class="section-arrow">›</span>
                     </button>
                 </article>
-            `;
-        }).join("");
+            `);
+        });
+        elements.lawSections.innerHTML = html.join("");
 
         elements.lawSections.querySelectorAll("[data-section-index]").forEach(button => {
             button.addEventListener("click", () => {
