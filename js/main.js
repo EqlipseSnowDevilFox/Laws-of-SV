@@ -3766,48 +3766,36 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function renderSectionNavigation(law, sectionIndex) {
-        const sectionText = elements.sectionText;
-        if (!sectionText || !sectionText.parentElement) return;
-
-        let nav = document.getElementById("sectionNavigation");
-        if (!nav) {
-            nav = document.createElement("nav");
-            nav.id = "sectionNavigation";
-            nav.className = "section-navigation";
-            nav.setAttribute("aria-label", "Gesetzesstellen-Navigation");
-            sectionText.insertAdjacentElement("afterend", nav);
-        }
-
+        // Use the two navigation buttons already present in index.html.
+        // Do not create a second navigation block.
         const previous = law.sections[sectionIndex - 1];
         const next = law.sections[sectionIndex + 1];
+
+        const previousButton = document.getElementById("previousSection");
+        const nextButton = document.getElementById("nextSection");
+        const previousLabel = document.getElementById("previousSectionLabel");
+        const nextLabel = document.getElementById("nextSectionLabel");
+
         const label = item => {
             const title = item?.title?.trim() || item?.chapter?.title || "Gesetzesbestimmung";
             return `${item.number} · ${title}`;
         };
 
-        nav.innerHTML = `
-            <button type="button" data-section-direction="previous" ${previous ? "" : "disabled"}>
-                <span aria-hidden="true">‹</span>
-                <span class="section-navigation-copy">
-                    <small>Vorheriger Eintrag</small>
-                    <strong>${previous ? escapeHtml(label(previous)) : "—"}</strong>
-                </span>
-            </button>
-            <button type="button" data-section-direction="next" ${next ? "" : "disabled"}>
-                <span class="section-navigation-copy">
-                    <small>Nächster Eintrag</small>
-                    <strong>${next ? escapeHtml(label(next)) : "—"}</strong>
-                </span>
-                <span aria-hidden="true">›</span>
-            </button>
-        `;
+        if (previousButton) {
+            previousButton.disabled = !previous;
+            if (previousLabel) previousLabel.textContent = previous ? label(previous) : "—";
+            previousButton.onclick = () => {
+                if (previous) showSection(law.id, sectionIndex - 1);
+            };
+        }
 
-        nav.querySelector('[data-section-direction="previous"]')?.addEventListener("click", () => {
-            if (previous) showSection(law.id, sectionIndex - 1);
-        });
-        nav.querySelector('[data-section-direction="next"]')?.addEventListener("click", () => {
-            if (next) showSection(law.id, sectionIndex + 1);
-        });
+        if (nextButton) {
+            nextButton.disabled = !next;
+            if (nextLabel) nextLabel.textContent = next ? label(next) : "—";
+            nextButton.onclick = () => {
+                if (next) showSection(law.id, sectionIndex + 1);
+            };
+        }
     }
 
     function showSection(lawId, sectionIndex) {
