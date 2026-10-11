@@ -64,7 +64,7 @@
 
 
 
-* {
+\* {
 
     box-sizing: border-box;
 
@@ -2080,7 +2080,7 @@ input {
 
 .law-navigation a,
 
-.results-list > *,
+.results-list > \*,
 
 .section-card,
 
@@ -2114,7 +2114,7 @@ input {
 
 
 
-.results-list > *:hover {
+.results-list > \*:hover {
 
     border-color: rgba(155,184,219,.55);
 
@@ -2908,4 +2908,35 @@ input {
 
     }
 
+}
+
+
+/* Navigation buttons — restore the Laws of SV dark theme */
+.section-navigation button {
+    border: 1px solid var(--border-strong);
+    border-radius: 8px;
+    background: var(--panel);
+    color: var(--text);
+    opacity: 1;
+}
+
+.section-navigation button:disabled {
+    border-color: var(--border);
+    background: #101722;
+    color: #91a7c2;
+    opacity: 0.72;
+}
+
+.section-navigation button:not(:disabled):hover {
+    border-color: var(--gold);
+    background: var(--panel-hover);
+    color: var(--blue-bright);
+}
+
+.section-navigation button strong {
+    color: var(--blue);
+}
+
+.section-navigation button:disabled strong {
+    color: var(--text-soft);
 }
